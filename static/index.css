@@ -1,0 +1,150 @@
+@font-face {
+    font-family: "Simonetta";
+    src: url('fonts/Simonetta-Black.ttf');
+}
+
+@font-face {
+	font-family: "Trebuchet MS";
+	src: url('fonts/Trebuchet-MS.ttf');
+}
+
+@font-face {
+	font-family: "FontAwesome";
+	src: url('fonts/font-awesome.ttf');
+}
+
+body {
+	background: #f2f2f2 url('images/bg-tile.png');
+}
+
+
+#white-page {
+	font-size: 62.5%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	padding: 20px 80px;
+	background: #fff;
+	max-width: 900px;
+	border-radius: 2vw;
+}
+
+
+#basic-info {
+	margin-top: 4vh;
+	display: flex;
+}
+
+
+#basic-info div {
+	flex: 0 0 65%;
+	position: relative;
+	top: 40px;
+}
+
+#basic-info img {
+	flex: 1;
+	height: 300px;
+	border-radius: 3px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+	background-color: #fff;
+	border: 1px solid #ccc;
+	padding: 5px;
+}
+
+
+.wall-of-text {
+	margin-left: 30px;
+	line-height: 25px;
+	text-indent: 40px;
+	text-align: justify;
+    text-justify: inter-word;
+}
+
+#my-languages {
+	display: flex;
+}
+
+#my-languages #naturals {
+	flex: 0 0 65%;
+	position: relative;
+	left: 70px;
+}
+
+#my-languages #programming {
+	flex: 1;
+	position: relative;
+	right: 70px;
+}
+
+#my-languages h1 {
+	font-size: 2.3em;
+}
+
+
+/* Headers */
+
+
+h1 {
+	font-family: "Simonetta", Arial;
+	color: #454545;
+	font-size: 3.5em;
+}
+
+h2 {
+	margin-top: 40px;
+	font-family: "Simonetta", Arial;
+	color: #484848;
+	font-size: 2.5em;
+	text-decoration: underline;
+}
+
+h3 {
+	font-family: "Trebuchet MS", Verdana;
+	color: #777;
+	font-weight: normal;
+	font-size: 1.8em;
+}
+
+.subtitle {
+	margin-top: -15px;
+}
+
+h4 {
+	letter-spacing: 0.6px;
+	font-family: "Trebuchet MS", Verdana;
+	color: #656565;
+	font-size: 1.4em;
+	margin-top: -7px;
+}
+
+/* Lists */
+
+ul, li {
+	font-family: "Trebuchet MS";
+	color: #777;
+	font-size: 1.3em;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+ul {
+	margin: 2em 0;
+}
+
+li {
+	margin: 1em;
+	margin-left: 1.2em;
+}
+
+li:before {
+	background-image: url("images/star.png");
+	background-size: 20px 20px;
+	float: left;
+	display: inline-block;
+    width: 20px;
+    height: 20px;
+	margin-right: 0.6em;
+    content:"";
+}
