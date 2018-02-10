@@ -21,6 +21,7 @@ body {
 #white-page {
     margin-left: auto;
     margin-right: auto;
+	margin-bottom: 15px;
 	padding: 20px 80px;
 	background: #fff;
 	width: 900px;
@@ -82,6 +83,10 @@ body {
 
 #my-languages h1 {
 	font-size: 23px;
+}
+
+#footer {
+	margin-top: 19px;
 }
 
 
