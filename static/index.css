@@ -228,8 +228,8 @@ body {
 .btn-wrapper {
 	display: flex;
 	position: relative;
-	top: 20px;
-	right: 33px;
+	top: 24px;
+	right: 38px;
 }
 
 .github {
@@ -237,7 +237,7 @@ body {
 }
 
 .demo {
-	margin-left: 12px;
+	margin-left: 25px;
 }
 
 .paper {
