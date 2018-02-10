@@ -34,6 +34,9 @@ body {
 	max-height: 400px;
 }
 
+#basic-info h3 {
+	margin-top: -15px;
+}
 
 #basic-info div {
 	flex: 0 0 65%;
@@ -81,7 +84,56 @@ body {
 	font-size: 23px;
 }
 
-#my-projects {
+
+/* Blue button */
+
+.btn {
+	position: relative;
+	float: left;
+	flex: 1;
+	cursor: pointer;
+	border-radius: 7px;
+	text-decoration: none;
+	padding: 5px 8px;
+	font-family: "Trebuchet MS", Verdana;
+	font-size: 16px;
+	transition: .3s;
+	-webkit-transition: .3s;
+	-moz-transition: .3s;
+	-o-transition: .3s;
+	display: inline-block;
+	margin-top: -5px;
+	color: #55acee;
+	border: 1.4px #55acee solid;
+}
+
+.btn:hover {
+	background-color: #55acee;
+	color: #fff;
+}
+
+.btn-wrapper {
+	display: flex;
+	position: relative;
+	top: 20px;
+	right: 33px;
+}
+
+.github {
+	margin-left: 25px;
+}
+
+.demo {
+	margin-left: 12px;
+}
+
+.paper {
+	margin-left: 5px;
+}
+
+/* Squared boxes */
+
+.item-wrapper {
 	display: flex;
 	margin-top: 40px;
 	max-height: 800px;
@@ -90,7 +142,7 @@ body {
 .item {
 	flex: 1;
 	margin-right: 33px;
-	padding: 30px 80px;
+	padding: 17px 80px;
 	background: #f9fbfc;
 	max-width: 120px;
 	border-radius: 25px;
@@ -101,7 +153,7 @@ body {
 .thumbnail {
 	position: relative;
 	left: -67px;
-	top: -15px;
+	top: 6px;
 	width: 250px;
 	height: 140px;
 	border-radius: 6px;
@@ -115,12 +167,12 @@ body {
 }
 
 .item h1 {
-	top: -15px;
+	top: 6px;
 	font-size: 23px;
 }
 
 .item h3 {
-	top: -20px;
+	top: -4px;
 	text-align: justify;
     text-justify: inter-word;
 	line-height: 25px;
@@ -151,9 +203,6 @@ h3 {
 	font-size: 18px;
 }
 
-.subtitle {
-	margin-top: -15px;
-}
 
 h4 {
 	letter-spacing: 0.6px;
