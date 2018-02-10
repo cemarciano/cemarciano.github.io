@@ -176,10 +176,10 @@ body {
 	left: 225px;
     border: none;
     color: white;
-    height: 1px;
+    height: 1.2px;
 	width: 120px;
     background: black;
-    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 60, from(#000), to(#fff));
+    background: -webkit-gradient(radial, 50% 100%, 0, 50% 50%, 60, from(#0960ed), to(#edf3ff));
 	transform: rotate(90deg);
 }
 
