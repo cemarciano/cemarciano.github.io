@@ -58,10 +58,17 @@ body {
 
 .wall-of-text {
 	margin-left: 30px;
+	margin-bottom: 80px;
 	line-height: 25px;
 	text-indent: 40px;
 	text-align: justify;
     text-justify: inter-word;
+}
+
+
+#my-experiences {
+	margin-top: 50px;
+	margin-bottom: 80px;
 }
 
 #my-languages {
@@ -85,8 +92,12 @@ body {
 	font-size: 23px;
 }
 
-#footer {
-	margin-top: 19px;
+#my-projects {
+	margin-bottom: 60px;
+}
+
+#my-achievements {
+	margin-bottom: 30px;
 }
 
 
@@ -136,7 +147,55 @@ body {
 	margin-left: 5px;
 }
 
-/* Squared boxes */
+
+/* Horizontal boxes */
+
+
+.horizontal-item {
+	position: relative;
+	height: 100px;
+	margin-top: 40px;
+	margin-left: 20px;
+}
+
+.horizontal-item h1 {
+	text-align: center;
+	font-size: 19px;
+	width: 250px;
+	margin: auto;
+	position: absolute;
+  	top: 50%;
+  	transform: translateY(-50%);
+}
+
+.vertical-line {
+    display: block;
+	position: absolute;
+  	top: 50%;
+  	transform: translateY(-50%);
+	left: 225px;
+    border: none;
+    color: white;
+    height: 1px;
+	width: 120px;
+    background: black;
+    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 60, from(#000), to(#fff));
+	transform: rotate(90deg);
+}
+
+.horizontal-item h3 {
+	text-align: justify;
+    text-justify: inter-word;
+	line-height: 25px;
+	margin: auto;
+	position: absolute;
+  	top: 50%;
+  	transform: translateY(-50%);
+	left: 340px;
+	width: 520px;
+}
+
+/* Vertical squared boxes */
 
 .item-wrapper {
 	display: flex;
@@ -144,7 +203,7 @@ body {
 	max-height: 800px;
 }
 
-.item {
+.vertical-item {
 	flex: 1;
 	margin-right: 33px;
 	padding: 17px 80px;
@@ -165,18 +224,18 @@ body {
 	border: 2px solid #ccc;
 }
 
-.item h1, .item h3 {
+.vertical-item h1, .vertical-item h3 {
 	position: relative;
 	left: -60px;
 	margin-right: -115px;
 }
 
-.item h1 {
+.vertical-item h1 {
 	top: 6px;
 	font-size: 23px;
 }
 
-.item h3 {
+.vertical-item h3 {
 	top: -4px;
 	text-align: justify;
     text-justify: inter-word;
