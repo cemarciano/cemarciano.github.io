@@ -42,7 +42,7 @@ body {
 #basic-info div {
 	flex: 0 0 65%;
 	position: relative;
-	top: 40px;
+	top: 34px;
 }
 
 #basic-info img {
@@ -53,6 +53,11 @@ body {
 	background-color: #fff;
 	border: 1px solid #ccc;
 	padding: 5px;
+}
+
+#basic-info a {
+	transform: scale(0.93);
+	left: -3px;
 }
 
 
