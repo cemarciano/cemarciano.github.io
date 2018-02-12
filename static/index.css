@@ -55,9 +55,10 @@ body {
 	padding: 5px;
 }
 
-#basic-info a {
+#basic-info .btn {
+	display: inline-block;
 	transform: scale(0.93);
-	left: -28px;
+	left: -16px;
 }
 
 
@@ -174,9 +175,10 @@ body {
 }
 
 .vertical-item {
+	position: relative;
 	flex: 1;
 	margin-right: 33px;
-	padding: 17px 80px;
+	padding: 30px 80px;
 	background: #f9fbfc;
 	max-width: 120px;
 	border-radius: 25px;
@@ -187,7 +189,7 @@ body {
 .thumbnail {
 	position: relative;
 	left: -67px;
-	top: 6px;
+	top: -7px;
 	width: 250px;
 	height: 140px;
 	border-radius: 6px;
@@ -201,12 +203,12 @@ body {
 }
 
 .vertical-item h1 {
-	top: 6px;
+	top: -8px;
 	font-size: 23px;
 }
 
 .vertical-item h3 {
-	top: -4px;
+	top: -18px;
 	text-align: justify;
     text-justify: inter-word;
 	line-height: 25px;
@@ -217,8 +219,8 @@ body {
 
 .btn {
 	position: relative;
-	float: left;
-	flex: 1;
+	left: -50%;
+	display: inline-block;
 	cursor: pointer;
 	border-radius: 7px;
 	text-decoration: none;
@@ -226,15 +228,13 @@ body {
 	font-family: "Trebuchet MS", Verdana;
 	font-size: 16px;
 	transition: .3s;
-	-webkit-transition: .3s;
-	-moz-transition: .3s;
-	-o-transition: .3s;
-	display: inline-block;
 	margin-top: -5px;
-	margin-left: 25px;
+	margin-left: 13px;
+	margin-right: 13px;
 	color: #55acee;
 	border: 1.4px #55acee solid;
 }
+
 
 .btn:hover {
 	background-color: #55acee;
@@ -242,21 +242,13 @@ body {
 }
 
 .btn-wrapper {
+	margin: 0 auto;
 	display: flex;
-	position: relative;
-	top: 24px;
-	right: 40px;
+	position: absolute;
+	bottom: 17px;
+	left: 50%;
 }
 
-.btn-wrapper-big {
-	top: 0px;
-	right: 55px;
-}
-
-.paper {
-	margin-left: 5px;
-	top: 3px;
-}
 
 
 /* Headers */
