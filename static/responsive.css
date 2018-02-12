@@ -9,6 +9,14 @@
 		font-size: 12px;
 	}
 
+	.horizontal-item h1 {
+		font-size: 22px;
+	}
+
+	.horizontal-item h4 {
+		font-size: 16px;
+	}
+
 	#my-languages {
 		transform: scale(1.2);
 		margin-top: 50px;
