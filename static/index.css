@@ -244,7 +244,12 @@ body {
 	display: flex;
 	position: relative;
 	top: 24px;
-	right: 38px;
+	right: 40px;
+}
+
+.btn-wrapper-big {
+	top: 0px;
+	right: 55px;
 }
 
 .github {
