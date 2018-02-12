@@ -231,6 +231,7 @@ body {
 	-o-transition: .3s;
 	display: inline-block;
 	margin-top: -5px;
+	margin-left: 25px;
 	color: #55acee;
 	border: 1.4px #55acee solid;
 }
@@ -252,16 +253,9 @@ body {
 	right: 55px;
 }
 
-.github {
-	margin-left: 25px;
-}
-
-.demo {
-	margin-left: 25px;
-}
-
 .paper {
 	margin-left: 5px;
+	top: 3px;
 }
 
 
