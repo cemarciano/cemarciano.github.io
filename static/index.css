@@ -76,12 +76,12 @@ body {
 	margin-bottom: 80px;
 }
 
-#my-languages {
+#my-languages, #my-courses {
 	display: flex;
 	max-height: 450px;
 }
 
-#my-languages #naturals {
+#my-languages #naturals, #my-courses {
 	flex: 0 0 65%;
 	position: relative;
 	left: 70px;
