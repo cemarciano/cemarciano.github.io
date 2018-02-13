@@ -77,12 +77,12 @@ body {
 	margin-bottom: 80px;
 }
 
-#my-languages, #my-courses {
+#my-languages {
 	display: flex;
 	max-height: 450px;
 }
 
-#my-languages #naturals, #my-courses {
+#my-languages #naturals {
 	flex: 0 0 65%;
 	position: relative;
 	left: 70px;
@@ -100,6 +100,12 @@ body {
 
 #my-projects {
 	margin-bottom: 60px;
+}
+
+#my-courses {
+	margin-top: 40px;
+	margin-left: 50px;
+	margin-bottom: 70px;
 }
 
 #my-achievements {
