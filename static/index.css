@@ -103,9 +103,14 @@ body {
 }
 
 #my-courses {
-	margin-top: 40px;
-	margin-left: 50px;
-	margin-bottom: 70px;
+	position: relative;
+	top: 15px;
+	left: 50px;
+	margin-bottom: 90px;
+}
+
+#my-courses li {
+	font-size: 18px;
 }
 
 #my-achievements {

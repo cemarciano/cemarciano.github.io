@@ -35,5 +35,9 @@
 		right: 100px;
 	}
 
+	#my-courses li {
+		font-size: 9px;
+	}
+
 
 }
