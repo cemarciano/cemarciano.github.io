@@ -17,7 +17,7 @@
 		font-size: 16px;
 	}
 
-	#my-languages {
+	#my-languages, #my-courses ul {
 		transform: scale(1.2);
 		margin-top: 50px;
 		margin-left: 50px;
@@ -34,7 +34,6 @@
 	#my-languages #programming {
 		right: 100px;
 	}
-
 
 
 }
