@@ -77,6 +77,10 @@ body {
 	margin-bottom: 80px;
 }
 
+.supervisor {
+	margin-top: -11px !important;
+}
+
 #my-languages {
 	display: flex;
 	max-height: 450px;
