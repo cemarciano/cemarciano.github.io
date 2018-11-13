@@ -138,10 +138,11 @@ body {
 
 .horizontal-item div {
 	text-align: center;
-	width: 250px;
+	width: 280px;
 	margin: auto;
 	position: absolute;
   	top: 50%;
+	left: -20px;
   	transform: translateY(-50%);
 }
 
