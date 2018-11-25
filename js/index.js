@@ -27,14 +27,22 @@ $(document).ready(function(){
 
 
 function translate(lang){
-	console.log("Translating to " + lang);
 	// Loads localization json file:
 	jQuery.get({ url: 'i18n/' + lang + '.json', cache: false }).done(function (translation) {
 		// Selects all elements with a data-i18n attribute previously set:
 		var elements = $("[data-i18n]");
 		// Applies translation:
 		elements.each(function() {
-			$(this).text(translation[0][$(this).attr("data-i18n")]);
+            // Creates a list of json children objects using the data-i18n field value:
+            let addrList = $(this).attr("data-i18n").split(".");
+            // Dummy variable to run through objects:
+            let obj = translation[0];
+            // Loops through children:
+            for (i in addrList){
+                obj = obj[addrList[i]];
+            }
+            // Applies translation:
+            $(this).text(obj);
 		});
 	});
 }
@@ -55,7 +63,6 @@ function translateFromURL(defaultLanguage){
 		// Applies desired translation:
 		translate(urlParams.get("ln"));
 	} else {
-		console.log("Falling back to default translation");
 		// Default translation:
 		translate(defaultLanguage);
 	}

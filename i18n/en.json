@@ -1,9 +1,55 @@
 [
 	{
 		"basic-info": {
-			"university": "Fed Uni"
+            "job": "Information and Computer Engineering Student",
+			"university": "Federal University of Rio de Janeiro \u2014 UFRJ \u2014 Brazil",
+            "graduation": "Graduation: March 2019 \u2014 GPA: 8.7",
+            "github": "My Github"
 		},
-		"supervisor": "Supervisor",
-		"university": "nope"
+        "my-story": {
+            "title": "My Story"
+        },
+        "my-experiences": {
+            "title": "Academic Experiences",
+            "ta-graphs": "Teaching Assistant in Algorithms and Graphs",
+            "research-graphs": "Undergraduate Research in Algorithms and Graphs",
+            "research-big-data": "Undergraduate Research in Big Data and Mach. Learning",
+            "ta-algorithms": "Teaching Assistant in Algorithms and Data Struct.",
+		    "supervisor": "Supervisor"
+		},
+        "my-languages": {
+            "title": "Languages",
+            "natural": "Natural",
+            "programming": "Programming",
+            "portuguese": "Portuguese (fluent)",
+            "english": "English (fluent)",
+            "french": "French (advanced)",
+            "spanish": "Spanish (basic)",
+            "c-plus-plus": "C and C++ (fluent)",
+            "javascript": "Javascript and JQuery (advanced)",
+            "html": "HTML and CSS (advanced)",
+            "python": "Python and Java (intermmediate)",
+            "angular": "Angular 6 and MongoDB (basic)"
+        },
+        "my-courses": {
+            "title": "Other Courses",
+            "french": "French (up to B1.1) \u2014 Alliance Française Rio",
+            "english": "English (complete) \u2014 Brasas English Course"
+        },
+        "months": {
+            "jan": "Jan",
+            "feb": "Feb",
+            "mar": "Mar",
+            "apr": "Apr",
+            "may": "May",
+            "jun": "Jun",
+            "jul": "Jul",
+            "aug": "Aug",
+            "sep": "Sep",
+            "oct": "Oct",
+            "nov": "Nov",
+            "dec": "Dec",
+            "today": "Today"
+        }
 	}
 ]

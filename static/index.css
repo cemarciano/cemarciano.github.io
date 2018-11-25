@@ -78,6 +78,7 @@ body {
 	margin-left: 3px;
 	position: relative;
 	top: 4px;
+    cursor: pointer;
 }
 
 .translation #en {

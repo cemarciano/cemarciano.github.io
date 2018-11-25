@@ -1,9 +1,55 @@
 [
 	{
 		"basic-info": {
-			"university": "Universidade Federal"
+            "job": "Estudante de Engenharia de Computação e Informação",
+			"university": "Universidade Federal do Rio de Janeiro \u2014 UFRJ \u2014 Brasil",
+            "graduation": "Formatura: Março de 2019 \u2014 CR acumulado: 8,7",
+            "github": "Meu Github"
 		},
-		"supervisor": "Orientador",
-		"university": "nao"
+        "my-story": {
+            "title": "Minha História"
+        },
+        "my-experiences": {
+            "title": "Experiências Acadêmicas",
+            "ta-graphs": "Monitor de Algoritmos e Grafos",
+            "research-graphs": "Iniciação Científica em Algoritmos e Grafos",
+            "research-big-data": "Iniciação Científica em Big Data e Machine Learning",
+            "ta-algorithms": "Monitor de Algoritmos e Estruturas de Dados",
+		    "supervisor": "Orientador"
+		},
+        "my-languages": {
+            "title": "Linguagens",
+            "natural": "Naturais",
+            "programming": "De Programação",
+            "portuguese": "Portugês (fluente)",
+            "english": "Inglês (fluente)",
+            "french": "Francês (avançado)",
+            "spanish": "Espanhol (básico)",
+            "c-plus-plus": "C e C++ (fluente)",
+            "javascript": "Javascript e JQuery (avançado)",
+            "html": "HTML e CSS (avançado)",
+            "python": "Python e Java (intermediário)",
+            "angular": "Angular 6 e MongoDB (básico)"
+        },
+        "my-courses": {
+            "title": "Outros Cursos",
+            "french": "Francês (até B1.1) \u2014 Aliança Francesa Rio",
+            "english": "Inglês (completo) \u2014 Brasas English Course"
+        },
+        "months": {
+            "jan": "Jan",
+            "feb": "Fev",
+            "mar": "Mar",
+            "apr": "Abr",
+            "may": "Mai",
+            "jun": "Jun",
+            "jul": "Jul",
+            "aug": "Ago",
+            "sep": "Set",
+            "oct": "Out",
+            "nov": "Nov",
+            "dec": "Dez",
+            "today": "Hoje"
+        }
 	}
 ]
