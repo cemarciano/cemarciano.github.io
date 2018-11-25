@@ -61,6 +61,33 @@ body {
 	left: -16px;
 }
 
+.translation {
+	margin-top: -30px;
+}
+
+.translation h4 {
+	display: inline-block;
+}
+
+.translation .flag {
+	display: inline-block;
+	background-size: cover;
+	width: 30px;
+	height: 20px;
+	border-radius: 3px;
+	margin-left: 3px;
+	position: relative;
+	top: 4px;
+}
+
+.translation #en {
+	background-image: url("images/en.png");
+}
+
+.translation #pt {
+	background-image: url("images/pt.png");
+}
+
 
 .wall-of-text {
 	margin-left: 30px;
