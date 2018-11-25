@@ -36,6 +36,22 @@
             "french": "Francês (até B1.1) \u2014 Aliança Francesa Rio",
             "english": "Inglês (completo) \u2014 Brasas English Course"
         },
+        "my-achievements": {
+            "title": "Conquistas",
+            "first": {
+                "title": "1\u00ba Lugar Engenharia de Computação UFRJ",
+                "description": "Classificado em 1\u00ba lugar no vestibular do curso com um total de 4035,60 pontos pelo ENEM 2014."
+            },
+            "second": {
+                "title": "Nota 1000 na Redação do ENEM 2014",
+                "description": "Escritor de uma das 250 redações, de um total de 6 milhões, que receberam nota 1000 no ENEM 2014.",
+                "button": "Reportagem"
+            },
+            "third": {
+                "title": "Nota 115/120 TOEFL iBT (98\u00ba percentil)",
+                "description": "30/30 na seção Reading, 30/30 em Listening, 26/30 em Speaking e 29/30 em Writing, somando um total de 115/120 pontos (Outubro de 2018)."
+            }
+        },
         "months": {
             "jan": "Jan",
             "feb": "Fev",

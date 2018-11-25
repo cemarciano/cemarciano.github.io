@@ -36,6 +36,22 @@
             "french": "French (up to B1.1) \u2014 Alliance Française Rio",
             "english": "English (complete) \u2014 Brasas English Course"
         },
+        "my-achievements": {
+            "title": "Achievements",
+            "first": {
+                "title": "1st Place Computer Engineering UFRJ",
+                "description": "Ranked 1st in the entrance exame with a total of 4035.60 points through ENEM 2014."
+            },
+            "second": {
+                "title": "1000 Points in Writing section of ENEM 2014",
+                "description": "Writer of one of the 250 essays, out of a total of 6 million, who achieved 1000 points in ENEM 2014.",
+                "button": "News Story"
+            },
+            "third": {
+                "title": "115/120 in TOEFL iBT (98th percentile)",
+                "description": "30/30 in Reading section, 30/30 in Listening, 26/30 in Speaking and 29/30 in Writing, adding up to a total of 115/120 points (October 2018)."
+            }
+        },
         "months": {
             "jan": "Jan",
             "feb": "Feb",
