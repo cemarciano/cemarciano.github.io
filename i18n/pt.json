@@ -37,17 +37,21 @@
 		},
         "my-languages": {
             "title": "Linguagens",
-            "natural": "Naturais",
-            "programming": "De Programação",
-            "portuguese": "Portugês (fluente)",
-            "english": "Inglês (fluente)",
-            "french": "Francês (avançado)",
-            "spanish": "Espanhol (básico)",
-            "c-plus-plus": "C e C++ (fluente)",
-            "javascript": "Javascript e JQuery (avançado)",
-            "html": "HTML e CSS (avançado)",
-            "python": "Python e Java (intermediário)",
-            "angular": "Angular 6 e MongoDB (básico)"
+            "natural": {
+				"title": "Naturais",
+				"portuguese": "Portugês (fluente)",
+	            "english": "Inglês (fluente)",
+	            "french": "Francês (avançado)",
+	            "spanish": "Espanhol (básico)"
+			},
+            "programming": {
+				"title": "De Programação",
+				"c-plus-plus": "C e C++ (fluente)",
+	            "javascript": "Javascript e JQuery (avançado)",
+	            "html": "HTML e CSS (avançado)",
+	            "python": "Python e Java (intermediário)",
+	            "angular": "Angular 6 e MongoDB (básico)"
+			}
         },
         "my-courses": {
             "title": "Outros Cursos",
