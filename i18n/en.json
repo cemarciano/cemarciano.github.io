@@ -7,7 +7,17 @@
             "github": "My Github"
 		},
         "my-story": {
-            "title": "My Story"
+            "title": "My Story",
+			"first-paragraph": {
+				"start": "I'm a",
+				"end": "year-old student who had his first contact with computer programming at age 14 developing RPGs in Adobe Flash (in the now extinct ActionScript 2.0 language). Alongside two artist friends whom I met on forums, one from New York and another from Toronto, we created worlds which would serve as a base to feed my dream of following a career in computer science."
+			},
+			"second-paragraph": {
+				"text": "I started undergraduate studies in 2015 and, by chance, I enrolled in an alorithms and data structures course a little earlier than I should have. As a result, I was mesmerized by how beautiful algorithms can be and decided to follow that path. I passed with maximum grade and became a teaching assistant for the course during the following 2 years."
+			},
+			"third-paragraph": {
+				"text": "As a TA, I was able to assist a plethora of people and learn valuable lessons. Despite being offered a third year, I left the position at the end of 2017 to pursue research. Despite having explored the areas of big data and machine learning in a project in collaboration with CERN, my passion resides in complexity theory and graphs, being currently involved in the areas of distributed systems and combinatorial optimization."
+			}
         },
         "my-experiences": {
             "title": "Academic Experiences",
