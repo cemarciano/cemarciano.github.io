@@ -28,7 +28,12 @@
 		},
 		"my-papers": {
 			"title": "Artigos Científicos",
-			"view-pdf": "Ver PDF"
+			"view-pdf": "Ver PDF",
+			"status": {
+				"submitted": "submetido",
+				"approved": "aprovado",
+				"published": "publicado"
+			}
 		},
         "my-languages": {
             "title": "Linguagens",

@@ -28,7 +28,12 @@
 		},
 		"my-papers": {
 			"title": "Research Papers",
-			"view-pdf": "View PDF"
+			"view-pdf": "View PDF",
+			"status": {
+				"submitted": "submitted",
+				"approved": "approved",
+				"published": "published"
+			}
 		},
         "my-languages": {
             "title": "Languages",

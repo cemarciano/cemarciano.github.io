@@ -124,6 +124,10 @@ body {
     text-justify: inter-word;
 }
 
+#my-papers span {
+	color: #4c8fff;
+}
+
 
 #my-languages {
 	display: flex;
