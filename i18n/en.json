@@ -6,26 +6,29 @@
             "graduation": "Graduation: March 2019 \u2014 GPA: 8.7",
             "github": "My Github"
 		},
-        "my-story": {
-            "title": "My Story",
-			"first-paragraph": {
-				"start": "I'm a",
-				"end": "year-old student who had his first contact with computer programming at age 14 developing RPGs in Adobe Flash (in the now extinct ActionScript 2.0 language). Alongside two artist friends whom I met on forums, one from New York and another from Toronto, we created worlds which would serve as a base to feed my dream of following a career in computer science."
-			},
-			"second-paragraph": {
-				"text": "I started undergraduate studies in 2015 and, by chance, I enrolled in an alorithms and data structures course a little earlier than I should have. As a result, I was mesmerized by how beautiful algorithms can be and decided to follow that path. I passed with maximum grade and became a teaching assistant for the course during the following 2 years."
-			},
-			"third-paragraph": {
-				"text": "As a TA, I was able to assist a plethora of people and learn valuable lessons. Despite being offered a third year, I left the position at the end of 2017 to pursue research. Despite having explored the areas of big data and machine learning in a project in collaboration with CERN, my passion resides in complexity theory and graphs, being currently involved in the areas of distributed systems and combinatorial optimization."
-			}
-        },
         "my-experiences": {
             "title": "Academic Experiences",
-            "ta-graphs": "Teaching Assistant in Algorithms and Graphs",
-            "research-graphs": "Undergraduate Research in Algorithms and Graphs",
-            "research-big-data": "Undergraduate Research in Big Data and Mach. Learning",
-            "ta-algorithms": "Teaching Assistant in Algorithms and Data Struct.",
-		    "supervisor": "Supervisor"
+			"supervisor": "Supervisor",
+            "ta-graphs": {
+				"title": "Teaching Assistant in Algorithms and Graphs",
+				"text": "Besides having the opportunity to offer assistance to students in person as well as remotely, I've been contributing to the evaluation process of the course and orienting students on how to perform their practical assignments."
+			},
+			"research-graphs": {
+				"title": "Undergraduate Research in Algorithms and Graphs",
+				"text": "I've been part of two distinct theoretical projects involving complexity theory, distributed systems, concurrency in graphs and combinatorial optimization, resulting in a scientific paper submitted in November 2018."
+			},
+			"research-big-data": {
+				"title": "Undergraduate Research in Big Data and Mach. Learning",
+				"text": "Project in collaboration with the ATLAS Experiment (CERN, Switzerland). Our goal is to implement algorithms to identify similar data and diminish the training cycle of the neural networks in operation at ATLAS while preserving performance."
+			},
+			"ta-algorithms": {
+				"title": "Teaching Assistant in Algorithms and Data Struct.",
+				"text": "I had the pleasure to deliver lectures, elaborate exercises and propose practical assignments, besides assisting and getting to know the individualities of each student. It was my best experience in college."
+			}
+		},
+		"my-papers": {
+			"title": "Research Papers",
+			"view-pdf": "View PDF"
 		},
         "my-languages": {
             "title": "Languages",

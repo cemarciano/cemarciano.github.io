@@ -6,28 +6,29 @@
             "graduation": "Formatura: Março de 2019 \u2014 CR acumulado: 8,7",
             "github": "Meu Github"
 		},
-        "my-story": {
-            "title": "Minha História",
-			"first-paragraph": {
-				"start": "Sou um estudante de",
-				"end": "anos que teve seu primeiro contato com programação aos 14 desenvolvendo RPGs no Adobe Flash (na já extinta linguagem ActionScript 2.0). Junto com dois amigos artistas que conheci em fórums, um de Nova York e outro de Toronto, criamos mundos que serviriam de base pra alimentar o sonho de seguir uma carreira na área de computação."
-			},
-			"second-paragraph": {
-				"text": "Entrei na faculdade em 2015 e, por acaso, puxei uma matéria de algoritmos e estruturas de dados que só deveria ser puxada 2 semestres depois.
-					Logo desenvolvi uma paixão pela área e decidi seguir aquele caminho. Passei com nota máxima e me tornei monitor da matéria,
-					cargo que ocuparia pelos próximos 2 anos."
-			},
-			"third-paragraph": {
-				"text": "Foi em algoritmos que pude ajudar o maior número de pessoas e aprender diversas lições. Apesar de ter sido oferecido um terceiro ano, deixei o cargo ao final de 2017 para me dedicar à pesquisa. Mesmo tendo explorado as áreas de big data e machine learning em um projeto em colaboração com o CERN, minha paixão encontra-se em teoria da complexidade e <i>grafos, estando atualmente envolvido com trabalhos nas áreas de sistemas distribuídos e otimização combinatória."
-			}
-        },
         "my-experiences": {
             "title": "Experiências Acadêmicas",
-            "ta-graphs": "Monitor de Algoritmos e Grafos",
-            "research-graphs": "Iniciação Científica em Algoritmos e Grafos",
-            "research-big-data": "Iniciação Científica em Big Data e Machine Learning",
-            "ta-algorithms": "Monitor de Algoritmos e Estruturas de Dados",
-		    "supervisor": "Orientador"
+			"supervisor": "Orientador",
+            "ta-graphs": {
+				"title": "Monitor de Algoritmos e Grafos",
+				"text": "Além de ter a oportunidade de oferecer monitorias presenciais e à distância, venho contribuindo com as avaliações da disciplina e disponibilizando orientações de como realizar os trabalhos práticos necessários."
+			},
+			"research-graphs": {
+				"title": "Iniciação Científica em Algoritmos e Grafos",
+				"text": "Realizei dois projetos teóricos distintos envolvendo teoria da complexidade, sistemas distribuídos, concorrência em grafos e otimização combinatória, resultando em um artigo científico ao final de 2018."
+			},
+			"research-big-data": {
+				"title": "Iniciação Científica em Big Data e Machine Learning",
+				"text": "Projeto em colaboração com o experimento ATLAS (CERN, Suíça). Objetivamos implementar algoritmos para tratar registros semelhantes e diminuir o ciclo de treinamento do ensemble de redes neurais operante no experimento."
+			},
+			"ta-algorithms": {
+				"title": "Monitor de Algoritmos e Estruturas de Dados",
+				"text": "Tive o prazer de dar aulas, elaborar exercícios e propor trabalhos, além de auxiliar e conhecer as individualidades de cada aluno. Foi minha melhor experiência na faculdade."
+			}
+		},
+		"my-papers": {
+			"title": "Artigos Científicos",
+			"view-pdf": "Ver PDF"
 		},
         "my-languages": {
             "title": "Linguagens",

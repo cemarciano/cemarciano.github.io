@@ -109,6 +109,22 @@ body {
 	margin-top: -11px !important;
 }
 
+
+
+#my-papers {
+	display: flex;
+	margin-top: -28px;
+	margin-left: 50px;
+	margin-bottom: 72px;
+}
+
+#my-papers li {
+	line-height: 26px;
+	text-align: justify;
+    text-justify: inter-word;
+}
+
+
 #my-languages {
 	display: flex;
 	max-height: 450px;
@@ -263,6 +279,7 @@ body {
 
 /* Blue button */
 
+
 .btn {
 	position: relative;
 	left: -50%;
@@ -281,6 +298,11 @@ body {
 	border: 1.4px #55acee solid;
 }
 
+.inline-btn {
+	left: -1%;
+	font-size: 10pt;
+	line-height: 14px;
+}
 
 .btn:hover {
 	background-color: #55acee;
@@ -307,7 +329,7 @@ h1 {
 }
 
 h2 {
-	margin-top: 40px;
+	margin-top: 70px;
 	font-family: "Simonetta", Arial;
 	color: #484848;
 	font-size: 25px;
