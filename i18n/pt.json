@@ -53,6 +53,22 @@
 	            "angular": "Angular 6 e MongoDB (básico)"
 			}
         },
+		"my-projects": {
+			"title": "Projetos Práticos",
+			"first": {
+				"title": "Issues Monitoring",
+				"text": "Sistema construído em equipe com técnicas de Eng. de Software para monitorar laboratórios da UFRJ. Envolve Arduinos, interface web, um servidor central e um parser para integração com outro sistema.",
+				"button": "Artefatos"
+			},
+			"second": {
+				"title": "AudioLooper++",
+				"text": "Software em C++ e Qt utlizando a biblioteca PortAudio para gravar sons e reproduzi-los em loop, um em cima do outro, possibilitando a criação de músicas com múltiplas faixas de instrumentos."
+			},
+			"third": {
+				"title": "Interactive Flowchart",
+				"text": "Fluxograma responsivo que permite ao usuário marcar suas matérias cursadas e ver requisitos. É facilmente adaptável a outros cursos por qualquer pessoa leiga em programação."
+			}
+		},
         "my-courses": {
             "title": "Outros Cursos",
             "french": "Francês (até B1.1) \u2014 Aliança Francesa Rio",
@@ -66,7 +82,7 @@
             },
             "second": {
                 "title": "Nota 1000 na Redação do ENEM 2014",
-                "description": "Escritor de uma das 250 redações, de um total de 6 milhões, que receberam nota 1000 no ENEM 2014.",
+                "description": "Escritor de uma das 250 redações, de um total de 6 milhões, que receberam nota 1000 no ENEM 2014 (top 0,004%).",
                 "button": "Reportagem"
             },
             "third": {

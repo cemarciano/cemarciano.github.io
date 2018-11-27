@@ -7,6 +7,8 @@
 		<link rel="stylesheet" href="static/responsive.css">
         <script src="js/jquery-3.2.1.min.js"></script>
 		<script src="js/index.js"></script>
+		<!-- Stop favicon requests -->
+		<link rel="icon" href="data:,">
 	</head>
 	<body>
 
@@ -117,29 +119,29 @@
 			</div>
 
 
-			<h2>Alguns Projetos</h2>
+			<h2 data-i18n="my-projects.title">Alguns Projetos</h2>
 			<div id="my-projects" class="vertical-item-wrapper">
 				<div class="vertical-item">
 					<img class="thumbnail" src="static/images/issuesmonitoring.png"></img>
-					<h1>Issues Monitoring</h1>
-					<h3>Sistema construído em equipe com técnicas de Eng. de Software para monitorar laboratórios da UFRJ. Envolve Arduinos, interface web, um servidor central e um parser para integração com outro sistema.</h3>
+					<h1 data-i18n="my-projects.first.title">Issues Monitoring</h1>
+					<h3 data-i18n="my-projects.first.text">Sistema construído em equipe com técnicas de Eng. de Software para monitorar laboratórios da UFRJ. Envolve Arduinos, interface web, um servidor central e um parser para integração com outro sistema.</h3>
 					<div class="btn-wrapper">
 						<a class="btn" target="_blank" href="https://github.com/ESEGroup/IssuesMonitoring">Github</a>
-						<a class="btn" target="_blank" href="https://github.com/ESEGroup/IssuesMonitoring/wiki/Artefatos">Artefatos</a>
+						<a data-i18n="my-projects.first.button" class="btn" target="_blank" href="https://github.com/ESEGroup/IssuesMonitoring/wiki/Artefatos">Artefatos</a>
 					</div>
 				</div>
 				<div class="vertical-item">
 					<img class="thumbnail" src="static/images/audiolooper.png"></img>
-					<h1>AudioLooper++</h1>
-					<h3>Software em C++ e Qt utlizando a biblioteca PortAudio para gravar sons e reproduzi-los em loop, um em cima do outro, possibilitando a criação de músicas com múltiplas faixas de instrumentos.</h3>
+					<h1 data-i18n="my-projects.second.title">AudioLooper++</h1>
+					<h3 data-i18n="my-projects.second.text">Software em C++ e Qt utlizando a biblioteca PortAudio para gravar sons e reproduzi-los em loop, um em cima do outro, possibilitando a criação de músicas com múltiplas faixas de instrumentos.</h3>
 					<div class="btn-wrapper">
 						<a class="btn" target="_blank" href="https://github.com/sbvb/Looper">Github</a>
 						</div>
 				</div>
 				<div class="vertical-item">
 					<img class="thumbnail" src="static/images/flowchart.png"></img>
-					<h1>Interactive Flowchart</h1>
-					<h3>Fluxograma dinâmico que permite ao usuário marcar suas matérias cursadas e ver requisitos. É facilmente adaptável a outros cursos por qualquer pessoa leiga em programação.</h3>
+					<h1 data-i18n="my-projects.third.title">Interactive Flowchart</h1>
+					<h3 data-i18n="my-projects.third.text">Fluxograma responsivo que permite ao usuário marcar suas matérias cursadas e ver requisitos. É facilmente adaptável a outros cursos por qualquer pessoa leiga em programação.</h3>
 					<div class="btn-wrapper">
 						<a class="btn" target="_blank" href="https://github.com/carloseduardov8/Interactive-Flowchart">Github</a>
 						<a class="btn" target="_blank" href="https://carloseduardov8.github.io/Interactive-Flowchart/">Demo</a>

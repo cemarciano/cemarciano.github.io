@@ -53,6 +53,22 @@
 	            "angular": "Angular 6 and MongoDB (basic)"
 			}
         },
+		"my-projects": {
+			"title": "Practical Projects",
+			"first": {
+				"title": "Issues Monitoring",
+				"text": "System built with Software Engineering techniques as a team to monitor activities of university labs at UFRJ. It features Arduinos, a web interface, a server and a parser for integration with a proprietary system.",
+				"button": "Artifacts"
+			},
+			"second": {
+				"title": "AudioLooper++",
+				"text": "Software built in C++ and Qt using the PortAudio library to record sounds and reproduce them in loop, one on top of the other, allowing for the creation of songs featuring multiple instruments."
+			},
+			"third": {
+				"title": "Interactive Flowchart",
+				"text": "Responsive flowchart that allows the user to set completed courses and see their requirements. It's easily adaptable to other programs of study by anyone uninitiated in programming."
+			}
+		},
         "my-courses": {
             "title": "Other Courses",
             "french": "French (up to B1.1) \u2014 Alliance Française Rio",
@@ -66,7 +82,7 @@
             },
             "second": {
                 "title": "1000 Points in Writing section of ENEM 2014",
-                "description": "Writer of one of the 250 essays, out of a total of 6 million, who achieved 1000 points in ENEM 2014.",
+                "description": "Writer of one of the 250 essays, out of a total of 6 million, who achieved 1000 points in ENEM 2014 (top 0.004%).",
                 "button": "News Story"
             },
             "third": {
