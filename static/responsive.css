@@ -1,6 +1,6 @@
 @media only screen and (max-width: 1000px) {
 
-	#basic-info div {
+	#basic-info > div {
 		transform: scale(1.15);
 		left: 20px;
 	}
@@ -24,7 +24,15 @@
 	}
 
 	#my-languages li {
-		font-size: 18px;
+		font-size: 14pt;
+	}
+
+	#my-papers {
+		height: 120px;
+	}
+
+	#my-courses {
+		height: 170px;
 	}
 
 	#my-languages #naturals {
