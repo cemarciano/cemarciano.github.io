@@ -1,6 +1,5 @@
 var translations = {};
 var defaultLanguage = "en";
-var loadedLanguages = 0;
 
 /* Initialization function: */
 $(document).ready(function(){
@@ -18,29 +17,15 @@ $(document).ready(function(){
 	$('#age').html(age);
 
 	// Obtains the translation that should be applied at first:
-	var firstTranslation = obtainTranslateFromURL();
-
-	// Captures all translate options in the DOM:
-	$(".flag").each(function(){
-		// Retrieves language:
-		let lang = $(this).attr("id");
-		// Adds click callback:
-		$(this).click(function(){
-			// Make them translate to the language in their id:
-			translate(lang);
-		});
-		// Retrieves translation from server:
-		jQuery.get({ url: 'i18n/' + lang + '.json', cache: false }).done(function (translation) {
-			// Stores translation for future usage:
-			translations[lang] = translation[0];
-			// If translation is default, applies immediately:
-			if (lang == firstTranslation){
-				translate(lang);
-			}
-			// Increments number of loaded languages:
-			loadedLanguages++;
-			// If all languages were loaded, apply
-		});
+	var firstTranslation = obtainTranslationFromURL();
+	// Loads chosen translation first (so it will not compete with other promises):
+	jQuery.get({ url: 'i18n/' + firstTranslation + '.json', cache: false }).done(function (translation) {
+		// Stores translation for future usage:
+		translations[firstTranslation] = translation[0];
+		// Applies translation:
+		translate(firstTranslation);
+		// Loads remaining translations:
+		loadRemainingTranslations(firstTranslation);
 	});
 
 });
@@ -65,7 +50,7 @@ function translate(lang){
 }
 
 
-function obtainTranslateFromURL(){
+function obtainTranslationFromURL(){
 	// Captures URL parameters:
 	let urlParams = new URLSearchParams(window.location.search);
 	// Creates an empty list of available languages:
@@ -83,4 +68,25 @@ function obtainTranslateFromURL(){
 		// Responds with defaul translation:
 		return defaultLanguage;
 	}
+}
+
+function loadRemainingTranslations(tabu){
+	// Captures all translate options in the DOM:
+	$(".flag").each(function(){
+		// Retrieves language:
+		let lang = $(this).attr("id");
+		// Adds click callback:
+		$(this).click(function(){
+			// Make them translate to the language in their id:
+			translate(lang);
+		});
+		// No need to reload the first applied translation:
+		if (lang != tabu){
+			// Retrieves translation from server:
+			jQuery.get({ url: 'i18n/' + lang + '.json', cache: false }).done(function (translation) {
+				// Stores translation for future usage:
+				translations[lang] = translation[0];
+			});
+		}
+	});
 }
