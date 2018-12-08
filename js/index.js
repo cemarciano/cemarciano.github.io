@@ -1,3 +1,6 @@
+var translations = {};
+var defaultLanguage = "en";
+var loadedLanguages = 0;
 
 /* Initialization function: */
 $(document).ready(function(){
@@ -14,41 +17,55 @@ $(document).ready(function(){
 	var age = Math.floor((today-birth) / (365.25 * 24 * 60 * 60 * 1000));
 	$('#age').html(age);
 
-	// Captures all translate options in the DOM:
-	$(".flag").click(function(){
-		// Make them translate to the language in their id:
-		translate($(this).attr("id"));
-	});
+	// Obtains the translation that should be applied at first:
+	var firstTranslation = obtainTranslateFromURL();
 
-	// Attempts to translate using URL parameter "ln":
-	translateFromURL("en");
+	// Captures all translate options in the DOM:
+	$(".flag").each(function(){
+		// Retrieves language:
+		let lang = $(this).attr("id");
+		// Adds click callback:
+		$(this).click(function(){
+			// Make them translate to the language in their id:
+			translate(lang);
+		});
+		// Retrieves translation from server:
+		jQuery.get({ url: 'i18n/' + lang + '.json', cache: false }).done(function (translation) {
+			// Stores translation for future usage:
+			translations[lang] = translation[0];
+			// If translation is default, applies immediately:
+			if (lang == firstTranslation){
+				translate(lang);
+			}
+			// Increments number of loaded languages:
+			loadedLanguages++;
+			// If all languages were loaded, apply
+		});
+	});
 
 });
 
 
 function translate(lang){
-	// Loads localization json file:
-	jQuery.get({ url: 'i18n/' + lang + '.json', cache: false }).done(function (translation) {
-		// Selects all elements with a data-i18n attribute previously set:
-		var elements = $("[data-i18n]");
-		// Applies translation:
-		elements.each(function() {
-            // Creates a list of json children objects using the data-i18n field value:
-            let addrList = $(this).attr("data-i18n").split(".");
-            // Dummy variable to run through objects:
-            let obj = translation[0];
-            // Loops through children:
-            for (i in addrList){
-                obj = obj[addrList[i]];
-            }
-            // Applies translation:
-            $(this).text(obj);
-		});
+	// Selects all elements with a data-i18n attribute previously set:
+	var elements = $("[data-i18n]");
+	// Applies translation:
+	elements.each(function() {
+        // Creates a list of json children objects using the data-i18n field value:
+        let addrList = $(this).attr("data-i18n").split(".");
+        // Dummy variable to run through objects:
+        let obj = translations[lang];
+        // Loops through children:
+        for (i in addrList){
+            obj = obj[addrList[i]];
+        }
+        // Applies translation:
+        $(this).text(obj);
 	});
 }
 
 
-function translateFromURL(defaultLanguage){
+function obtainTranslateFromURL(){
 	// Captures URL parameters:
 	let urlParams = new URLSearchParams(window.location.search);
 	// Creates an empty list of available languages:
@@ -60,10 +77,10 @@ function translateFromURL(defaultLanguage){
 	});
 	// Checks if desired translation is in the list (i.e. is available):
 	if (available.includes(urlParams.get("ln"))){
-		// Applies desired translation:
-		translate(urlParams.get("ln"));
+		// Retrieves desired translation:
+		return urlParams.get("ln");
 	} else {
-		// Default translation:
-		translate(defaultLanguage);
+		// Responds with defaul translation:
+		return defaultLanguage;
 	}
 }
