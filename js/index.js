@@ -77,8 +77,11 @@ function loadRemainingTranslations(tabu){
 		let lang = $(this).attr("id");
 		// Adds click callback:
 		$(this).click(function(){
-			// Make them translate to the language in their id:
-			translate(lang);
+			// Checks if translation has already been loaded from the server:
+			if (translations[lang] != undefined){
+				// Make them translate to the language in their id:
+				translate(lang);
+			}
 		});
 		// No need to reload the first applied translation:
 		if (lang != tabu){
