@@ -4,7 +4,8 @@
             "job": "Information and Computer Engineering Student",
 			"university": "Federal University of Rio de Janeiro \u2014 UFRJ \u2014 Brazil",
             "graduation": "Graduation: March 2019 \u2014 GPA: 8.7",
-            "github": "My Github"
+            "github": "My Github",
+			"cv": "CV in PDF"
 		},
         "my-experiences": {
             "title": "Academic Experiences",
@@ -78,7 +79,7 @@
             "title": "Achievements",
             "first": {
                 "title": "1st Place Computer Engineering UFRJ",
-                "description": "Ranked 1st in the entrance exame with a total of 4035.60 points through ENEM 2014."
+                "description": "Ranked 1st in the entrance exam with a total of 4035.60 points through ENEM 2014."
             },
             "second": {
                 "title": "1000 Points in Writing section of ENEM 2014",
