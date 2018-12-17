@@ -62,8 +62,8 @@
 				"button": "Artifacts"
 			},
 			"second": {
-				"title": "AudioLooper++",
-				"text": "Software built in C++ and Qt using the PortAudio library to record sounds and reproduce them in loop, one on top of the other, allowing for the creation of songs featuring multiple instruments."
+				"title": "Social Compassion",
+				"text": "An interactive visualization collecting data from 222,180 tweets displaying user reactions to the civil war in Syria. This personal project was inspired by an art exhibition exploring data visualization that took place in Rio de Janeiro."
 			},
 			"third": {
 				"title": "Interactive Flowchart",
@@ -71,9 +71,23 @@
 			}
 		},
         "my-courses": {
-            "title": "Other Courses",
-            "french": "French (up to B1.1) \u2014 Alliance Française Rio",
-            "english": "English (complete) \u2014 Brasas English Course"
+            "title": "Relevant Courses",
+            "core-courses": {
+				"title": "Core Courses",
+				"course1": "Algorithms and Data Structures",
+				"course2": "Graph Theory",
+				"course3": "Optimization",
+				"course4": "Computational Intelligence",
+				"course5": "Theory of Computation"
+			},
+            "other-courses": {
+				"title": "Other Courses",
+				"course1": "Graph Optimization",
+				"course2": "Probability and Statistics",
+				"course3": "Calculus I-IV & Linear Algebra",
+				"course4": "Machine Learning (Coursera)",
+				"course5": "English & French"
+			}
         },
         "my-achievements": {
             "title": "Achievements",

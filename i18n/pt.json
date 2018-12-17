@@ -62,18 +62,32 @@
 				"button": "Artefatos"
 			},
 			"second": {
-				"title": "AudioLooper++",
-				"text": "Software em C++ e Qt utlizando a biblioteca PortAudio para gravar sons e reproduzi-los em loop, um em cima do outro, possibilitando a criação de músicas com múltiplas faixas de instrumentos."
+				"title": "Social Compassion",
+				"text": "Uma visualização interativa com dados de 222.180 tweets mostrando as reações dos usuários à guerra na Síria. Este projeto pessoal foi inspirado em uma exposição sobre visualização de dados que ocorreu no Rio de Janeiro."
 			},
 			"third": {
 				"title": "Interactive Flowchart",
 				"text": "Fluxograma responsivo que permite ao usuário marcar suas matérias cursadas e ver requisitos. É facilmente adaptável a outros cursos por qualquer pessoa leiga em programação."
 			}
 		},
-        "my-courses": {
-            "title": "Outros Cursos",
-            "french": "Francês (até B1.1) \u2014 Aliança Francesa Rio",
-            "english": "Inglês (completo) \u2014 Brasas English Course"
+		"my-courses": {
+            "title": "Cursos Relevantes",
+            "core-courses": {
+				"title": "Cursos Principais",
+				"course1": "Algoritmos e Estruturas de Dados",
+				"course2": "Teoria dos Grafos",
+				"course3": "Otimização",
+				"course4": "Inteligência Computacional",
+				"course5": "Teoria da Computação"
+			},
+            "other-courses": {
+				"title": "Outros Cursos",
+				"course1": "Otimização em Grafos",
+				"course2": "Probabilidade e Estatística",
+				"course3": "Cálculo I-IV & Álgebra Linear",
+				"course4": "Machine Learning (Coursera)",
+				"course5": "Inglês & Francês"
+			}
         },
         "my-achievements": {
             "title": "Conquistas",

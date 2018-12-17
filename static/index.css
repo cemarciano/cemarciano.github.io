@@ -105,6 +105,7 @@ body {
     text-justify: inter-word;
 }
 
+/* My Experiences Section */
 
 #my-experiences {
 	margin-top: 50px;
@@ -115,7 +116,7 @@ body {
 	margin-top: -11px !important;
 }
 
-
+/* My Papers Section */
 
 #my-papers {
 	display: flex;
@@ -133,6 +134,8 @@ body {
 #my-papers span {
 	color: #4c8fff;
 }
+
+/* My Languages Section */
 
 
 #my-languages {
@@ -156,6 +159,32 @@ body {
 	font-size: 23px;
 }
 
+/* My Courses Section */
+
+#my-courses {
+	display: flex;
+	max-height: 450px;
+}
+
+#my-courses #core-courses {
+	flex: 0 0 65%;
+	position: relative;
+	left: 40px;
+}
+
+#my-courses #other-courses {
+	flex: 1;
+	position: relative;
+	right: 70px;
+}
+
+#my-courses h1 {
+	font-size: 23px;
+	margin-top: 50px;
+}
+
+/* My Practical Projects Section */
+
 #my-projects {
 	margin-bottom: 60px;
 }
@@ -167,11 +196,7 @@ body {
 	margin-bottom: 52px;
 }
 
-
-
-#my-courses li {
-	font-size: 18px;
-}
+/* My Achievements Section */
 
 #my-achievements {
 	margin-bottom: 30px;
@@ -305,6 +330,7 @@ body {
 	margin-left: 13px;
 	margin-right: 13px;
 	color: #55acee;
+	white-space: nowrap;
 	border: 1.4px #55acee solid;
 }
 
