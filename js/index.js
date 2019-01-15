@@ -50,7 +50,7 @@ function translate(lang){
             obj = obj[addrList[i]];
         }
         // Applies translation:
-        $(this).text(obj);
+        $(this).html(obj.split('\n').join('<br />'));
 	});
 }
 

@@ -3,7 +3,7 @@
 		"basic-info": {
             "job": "Étudiant de 1er cycle en Génie Informatique (B.S.)",
 			"university": "Université Fédérale de Rio de Janeiro \u2014 UFRJ \u2014 Brésil",
-            "graduation": "Remise de diplômes: Mars 2019 \u2014 GPA: 8,8/10 (actualisé Déc 20e)",
+            "graduation": "Remise de diplômes: 7 Mai 2019 \u2014 GPA: 8,8/10 (actualisé Jan 15e)",
             "github": "Mon Github",
 			"cv": "CV en PDF"
 		},
@@ -15,7 +15,7 @@
 				"text": "En plus d’avoir la possibilité d’apporter une assistance en personne et à distance, j’ai orienté les étudiants sur la manière de réaliser leurs travaux pratiques. J'ai aussi noté leurs travaux."
 			},
 			"research-graphs": {
-				"title": "Recherche en Algorithmes et Graphes",
+				"title": "Recherche en<br/>Algorithmes et Graphes",
 				"text": "J'ai participé à deux projets théoriques distincts impliquant des algorithmes de graphes, l'optimisation combinatoire et des systèmes distribués, qui ont abouti à un article scientifique soumis en novembre 2018."
 			},
 			"research-big-data": {

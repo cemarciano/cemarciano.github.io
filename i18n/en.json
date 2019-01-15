@@ -3,7 +3,7 @@
 		"basic-info": {
             "job": "Information and Computer Engineering B.S. Student",
 			"university": "Federal University of Rio de Janeiro \u2014 UFRJ \u2014 Brazil",
-            "graduation": "Graduation: March 2019 \u2014 GPA: 8.8/10 (updated Dec 20th)",
+            "graduation": "Graduation: May 7th, 2019 \u2014 GPA: 8.8/10 (updated Jan 15th)",
             "github": "My Github",
 			"cv": "CV in PDF"
 		},
@@ -11,7 +11,7 @@
             "title": "Academic Experiences",
 			"supervisor": "Supervisor",
             "ta-graphs": {
-				"title": "Teaching Assistant in Graph Theory",
+				"title": "Teaching Assistant in<br/>Graph Theory",
 				"text": "Besides having the opportunity to offer assistance in person as well as remotely, I oriented students on how to perform their practical assignments and graded their work."
 			},
 			"research-graphs": {
