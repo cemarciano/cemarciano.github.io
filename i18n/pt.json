@@ -68,7 +68,8 @@
 			"third": {
 				"title": "Interactive Flowchart",
 				"text": "Fluxograma responsivo que permite ao usuário marcar suas matérias cursadas e ver requisitos. É facilmente adaptável a outros cursos por qualquer pessoa leiga em programação."
-			}
+			},
+			"demo-button": "Demo"
 		},
 		"my-courses": {
             "title": "Cursos Relevantes",

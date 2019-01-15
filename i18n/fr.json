@@ -55,54 +55,55 @@
 			}
         },
 		"my-projects": {
-			"title": "Practical Projects",
+			"title": "Projets Pratiques",
 			"first": {
 				"title": "Issues Monitoring",
-				"text": "System built with Software Engineering techniques as a team to monitor activities of university labs at UFRJ. It features Arduinos, a web interface, a server and a parser for integration with a proprietary system.",
+				"text": "Système construit en équipe avec les techniques de Génie Logiciel pour surveiller les activités des laboratoires universitaires de l'UFRJ. Il se compose d’Arduinos, d’une interface Web, d’un serveur et d’un analyseur syntaxique pour l’intégration à un système propriétaire.",
 				"button": "Artifacts"
 			},
 			"second": {
 				"title": "Social Compassion",
-				"text": "An interactive visualization collecting data from 222,180 tweets displaying user reactions to the civil war in Syria. This personal project was inspired by an art exhibition exploring data visualization that took place in Rio de Janeiro."
+				"text": "Visualisation interactive collectant des données sur 222.180 tweets et présentant les réactions des utilisateurs à la guerre civile en Syrie. Ce projet personnel s’inspire d’une exposition d’art explorant la visualisation de données à Rio de Janeiro."
 			},
 			"third": {
 				"title": "Interactive Flowchart",
-				"text": "Responsive flowchart that allows the user to set completed courses and see their requirements. It's easily adaptable to other programs of study by anyone uninitiated in programming."
-			}
+				"text": "Organigramme réactif qui permet à l'utilisateur de définir des cours terminés et de voir leurs exigences. Il est facilement adaptable à d'autres programmes d'études par toute personne non initiée à la programmation."
+			},
+			"demo-button": "Démo"
 		},
         "my-courses": {
-            "title": "Relevant Courses",
+            "title": "Cours Pertinents",
             "core-courses": {
-				"title": "Core Courses",
-				"course1": "Algorithms and Data Structures",
-				"course2": "Graph Theory",
-				"course3": "Optimization",
-				"course4": "Computational Intelligence",
-				"course5": "Theory of Computation"
+				"title": "Cours de base",
+				"course1": "Algorithmes et Structures de Données",
+				"course2": "Théorie des Graphes",
+				"course3": "Optimisation",
+				"course4": "Intelligence Computationnelle",
+				"course5": "Informatique Théorique"
 			},
             "other-courses": {
-				"title": "Other Courses",
-				"course1": "Graph Optimization",
-				"course2": "Probability and Statistics",
-				"course3": "Calculus I-IV & Linear Algebra",
+				"title": "Autres Cours",
+				"course1": "Optimisation dans les Graphes",
+				"course2": "Probabilité et Statistiques",
+				"course3": "Calcul I-IV & Algèbre Linéaire",
 				"course4": "Machine Learning (Coursera)",
-				"course5": "Brasas (english) & Alliance Française"
+				"course5": "Brasas (anglais) & Alliance Française"
 			}
         },
         "my-achievements": {
-            "title": "Achievements",
+            "title": "Réalisations",
             "first": {
-                "title": "1st Place Computer Engineering UFRJ",
-                "description": "Ranked 1st in the entrance exam with a total of 4035.60 points through ENEM 2014."
+                "title": "1re Place Génie Informatique UFRJ",
+                "description": "Classé 1re dans l'examen d'entrée avec un total de 4035,60 points à travers ENEM 2014."
             },
             "second": {
-                "title": "1000 Points in Writing section of ENEM 2014",
-                "description": "Writer of one of the 250 essays, out of a total of 6 million, who achieved 1000 points in ENEM 2014 (top 0.004%).",
+                "title": "1000 Points dans la Section d'Écriture de l'ENEM 2014",
+                "description": "Écrivain de l'un des 250 essais, sur un total de 6 millions, ayant obtenu 1000 points dans l'ENEM 2014 (top 0,004%).",
                 "button": "News Story"
             },
             "third": {
-                "title": "115/120 in TOEFL iBT (98th percentile)",
-                "description": "30/30 in Reading section, 30/30 in Listening, 26/30 in Speaking and 29/30 in Writing, adding up to a total of 115/120 points (October 2018)."
+                "title": "115/120 dans le TOEFL iBT (98e centile)",
+                "description": "30/30 en Lecture, 30/30 en Écoute, 26/30 en Expression Orale et 29/30 en Écriture, totalisant un total de 115/120 points (Octobre 2018)."
             }
         },
         "months": {
