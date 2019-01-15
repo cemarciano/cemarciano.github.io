@@ -1,57 +1,57 @@
 [
 	{
 		"basic-info": {
-            "job": "Information and Computer Engineering B.S. Student",
-			"university": "Federal University of Rio de Janeiro \u2014 UFRJ \u2014 Brazil",
-            "graduation": "Graduation: March 2019 \u2014 GPA: 8.8/10 (updated Dec 20th)",
-            "github": "My Github",
-			"cv": "CV in PDF"
+            "job": "Étudiant en Génie Informatique",
+			"university": "Université Fédérale de Rio de Janeiro \u2014 UFRJ \u2014 Brazil",
+            "graduation": "Remise de diplômes: Mars 2019 \u2014 GPA: 8,8/10 (actualisé Déc 20e)",
+            "github": "Mon Github",
+			"cv": "CV en PDF"
 		},
         "my-experiences": {
-            "title": "Academic Experiences",
-			"supervisor": "Supervisor",
+            "title": "Expériences Académiques",
+			"supervisor": "Superviseur",
             "ta-graphs": {
-				"title": "Teaching Assistant in Graph Theory",
-				"text": "Besides having the opportunity to offer assistance in person as well as remotely, I oriented students on how to perform their practical assignments and graded their work."
+				"title": "Assistant d'enseignement en Théorie des Graphes",
+				"text": "En plus d’avoir la possibilité d’apporter une assistance en personne et à distance, j’ai orienté les étudiants sur la manière de réaliser leurs travaux pratiques. J'ai aussi noté leurs travaux."
 			},
 			"research-graphs": {
-				"title": "Undergraduate Research in Algorithms and Graphs",
-				"text": "I've been part of two distinct theoretical projects involving graph algorithms, combinatorial optimization and distributed systems, resulting in a scientific paper submitted in November 2018."
+				"title": "Recherche en Algorithmes et Graphes",
+				"text": "J'ai participé à deux projets théoriques distincts impliquant des algorithmes de graphes, l'optimisation combinatoire et des systèmes distribués, qui ont abouti à un article scientifique soumis en novembre 2018."
 			},
 			"research-big-data": {
-				"title": "Undergraduate Research in Big Data and Mach. Learning",
-				"text": "Project in collaboration with the ATLAS Experiment (CERN, Switzerland). Our goal is to implement algorithms to identify similar data and diminish the training cycle of the neural networks in operation at ATLAS while preserving performance."
+				"title": "Recherche en Big Data et Machine Learning",
+				"text": "Projet en collaboration avec l'expérience ATLAS (CERN, Suisse). Notre objectif est de mettre en oeuvre des algorithmes pour identifier des données similaires et réduire le cycle d'apprentissage des réseaux de neurones en fonctionnement chez ATLAS, tout en préservant les performances."
 			},
 			"ta-algorithms": {
-				"title": "Teaching Assistant in Algorithms and Data Struct.",
-				"text": "I had the pleasure to deliver lectures, elaborate exercises and propose practical assignments, as well as assisting and getting to know the individualities of each student. It was my best experience in college."
+				"title": "Assistant d'enseignement en Algorithmes et Str. de Données",
+				"text": "J'ai eu le plaisir de donner des conférences, d'élaborer des exercices et de proposer des travaux pratiques, ainsi que d'aider et de connaître les particularités de chaque étudiant. C'était ma meilleure expérience à l'université."
 			}
 		},
 		"my-papers": {
-			"title": "Research Papers",
-			"view-pdf": "View PDF",
+			"title": "Publications Scientifiques",
+			"view-pdf": "Voir le PDF",
 			"status": {
-				"submitted": "submitted",
-				"approved": "approved",
-				"published": "published"
+				"submitted": "soumis",
+				"approved": "approuvé",
+				"published": "publié"
 			}
 		},
         "my-languages": {
-            "title": "Languages",
+            "title": "Langages",
             "natural": {
-				"title": "Natural",
-				"portuguese": "Portuguese (fluent)",
-	            "english": "English (fluent)",
-	            "french": "French (advanced)",
-	            "spanish": "Spanish (basic)"
+				"title": "Naturel",
+				"portuguese": "Portugais (couramment)",
+	            "english": "Anglais (couramment)",
+	            "french": "Français (avancé)",
+	            "spanish": "Espanol (élémentaire)"
 			},
             "programming": {
-				"title": "Programming",
-				"c-plus-plus": "C and C++ (fluent)",
-	            "javascript": "Python (advanced)",
-	            "html": "HTML, CSS and Javascript (advanced)",
-	            "python": "MongoDB (intermmediate)",
-	            "angular": "Angular 6 and Java (basic)"
+				"title": "De Programmation",
+				"c-plus-plus": "C et C++ (couramment)",
+	            "javascript": "Python (avancé)",
+	            "html": "HTML, CSS et Javascript (avancé)",
+	            "python": "MongoDB (intermédiaire)",
+	            "angular": "Angular 6 et Java (élémentaire)"
 			}
         },
 		"my-projects": {
@@ -107,18 +107,18 @@
         },
         "months": {
             "jan": "Jan",
-            "feb": "Feb",
+            "feb": "Fév",
             "mar": "Mar",
-            "apr": "Apr",
-            "may": "May",
-            "jun": "Jun",
-            "jul": "Jul",
-            "aug": "Aug",
+            "apr": "Avr",
+            "may": "Mai",
+            "jun": "Juin",
+            "jul": "Juil",
+            "aug": "Aout",
             "sep": "Sep",
             "oct": "Oct",
             "nov": "Nov",
-            "dec": "Dec",
-            "today": "Today"
+            "dec": "Déc",
+            "today": "Actuel"
         }
 	}
 ]

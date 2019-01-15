@@ -16,6 +16,11 @@ $(document).ready(function(){
 	var age = Math.floor((today-birth) / (365.25 * 24 * 60 * 60 * 1000));
 	$('#age').html(age);
 
+	// Appends flag images to corresponding divs:
+	$(".flag").each(function(){
+		$(this).css("background-image", "url(static/images/" + $(this).attr("id") + ".png)");
+	});
+
 	// Obtains the translation that should be applied at first:
 	var firstTranslation = obtainTranslationFromURL();
 	// Loads chosen translation first (so it will not compete with other promises):

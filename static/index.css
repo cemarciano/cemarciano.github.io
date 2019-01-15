@@ -87,13 +87,6 @@ body {
     cursor: pointer;
 }
 
-.translation #en {
-	background-image: url("images/en.png");
-}
-
-.translation #pt {
-	background-image: url("images/pt.png");
-}
 
 
 .wall-of-text {

@@ -48,10 +48,10 @@
             "programming": {
 				"title": "De Programação",
 				"c-plus-plus": "C e C++ (fluente)",
-	            "javascript": "Javascript e JQuery (avançado)",
-	            "html": "HTML e CSS (avançado)",
-	            "python": "Python e Java (intermediário)",
-	            "angular": "Angular 6 e MongoDB (básico)"
+	            "javascript": "Python (avançado)",
+	            "html": "HTML, CSS e Javascript (avançado)",
+	            "python": "MongoDB (intermediário)",
+	            "angular": "Angular 6 e Java (básico)"
 			}
         },
 		"my-projects": {
