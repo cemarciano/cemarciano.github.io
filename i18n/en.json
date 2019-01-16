@@ -48,8 +48,8 @@
             "programming": {
 				"title": "Programming",
 				"c-plus-plus": "C and C++ (fluent)",
-	            "javascript": "Python (advanced)",
-	            "html": "HTML, CSS and Javascript (advanced)",
+	            "javascript": "Python and Javascript (advanced)",
+	            "html": "HTML and CSS (advanced)",
 	            "python": "MongoDB (intermmediate)",
 	            "angular": "Angular 6 and Java (basic)"
 			}

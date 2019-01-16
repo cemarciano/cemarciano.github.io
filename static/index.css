@@ -137,9 +137,9 @@ body {
 }
 
 #my-languages #naturals {
-	flex: 0 0 65%;
+	flex: 0 0 63%;
 	position: relative;
-	left: 70px;
+	left: 90px;
 }
 
 #my-languages #programming {
@@ -156,7 +156,6 @@ body {
 
 #my-courses {
 	display: flex;
-	max-height: 450px;
 }
 
 #my-courses #core-courses {

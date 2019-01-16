@@ -48,8 +48,8 @@
             "programming": {
 				"title": "De Programmation",
 				"c-plus-plus": "C et C++ (couramment)",
-	            "javascript": "Python (avancé)",
-	            "html": "HTML, CSS et Javascript (avancé)",
+	            "javascript": "Python et Javascript (avancé)",
+	            "html": "HTML et CSS (avancé)",
 	            "python": "MongoDB (intermédiaire)",
 	            "angular": "Angular 6 et Java (élémentaire)"
 			}

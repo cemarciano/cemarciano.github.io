@@ -18,13 +18,17 @@
 	}
 
 	#my-languages, #my-courses ul {
-		transform: scale(1.2);
+		transform: scale(1.23);
 		margin-top: 50px;
 		margin-left: 50px;
 	}
 
 	#my-languages li {
-		font-size: 14pt;
+		font-size: 13pt;
+	}
+
+	#my-courses li {
+		font-size: 13pt;
 	}
 
 	#my-papers {
@@ -32,15 +36,25 @@
 	}
 
 	#my-courses {
-		height: 170px;
+		height: 330px;
+	}
+
+	#my-courses h1 {
+		font-size: 19pt;
 	}
 
 	#my-languages #naturals {
+		flex: 0 0 60%;
 		left: 100px;
 	}
 
 	#my-languages #programming {
 		right: 100px;
+	}
+
+	#my-courses #core-courses{
+		flex: 0 0 54%;
+		left: -10px;
 	}
 
 
