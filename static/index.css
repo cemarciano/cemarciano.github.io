@@ -69,6 +69,7 @@ body {
 
 .translation {
 	margin-top: 7px;
+	user-select: none;
 }
 
 .translation h4 {
@@ -86,6 +87,12 @@ body {
 	top: 4px;
     cursor: pointer;
 }
+
+
+.translation .flag:hover{
+	box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.05), 0px 0px 9px rgba(82, 168, 236, 0.9);
+}
+
 
 
 
