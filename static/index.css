@@ -160,6 +160,10 @@ body {
 	font-size: 23px;
 }
 
+#my-languages .proficiency {
+	color: #b7b7b7;
+}
+
 /* My Courses Section */
 
 #my-courses {
