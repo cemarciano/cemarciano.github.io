@@ -37,22 +37,21 @@
 			}
 		},
         "my-languages": {
-            "title": "Languages",
+            "title": "Languages & Skills",
+			"status": {
+				"fluent": "(fluent)",
+				"advanced": "(advanced)",
+				"intermediate": "(intermediate)",
+				"basic": "(basic)"
+			},
             "natural": {
 				"title": "Natural",
-				"portuguese": "Portuguese (fluent)",
-	            "english": "English (fluent)",
-	            "french": "French (advanced)",
-	            "spanish": "Spanish (basic)"
+				"portuguese": "Portuguese",
+	            "english": "English",
+	            "french": "French",
+	            "spanish": "Spanish"
 			},
-            "programming": {
-				"title": "Programming",
-				"c-plus-plus": "C and C++ (fluent)",
-	            "javascript": "Python and Javascript (advanced)",
-	            "html": "HTML and CSS (advanced)",
-	            "python": "MongoDB (intermmediate)",
-	            "angular": "Angular 6 and Java (basic)"
-			}
+			"programming": "Programming"
         },
 		"my-projects": {
 			"title": "Practical Projects",
@@ -120,6 +119,9 @@
             "nov": "Nov",
             "dec": "Dec",
             "today": "Today"
-        }
+        },
+		"assets": {
+			"and": "and"
+		}
 	}
 ]
