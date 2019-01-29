@@ -20,11 +20,13 @@
 			},
 			"research-big-data": {
 				"title": "Iniciação Científica em Big Data e Machine Learning",
-				"text": "Projeto em colaboração com o experimento ATLAS (CERN, Suíça). Objetivamos implementar algoritmos para tratar registros semelhantes e diminuir o ciclo de treinamento do ensemble de redes neurais operante no experimento."
+				"text": "Projeto em colaboração com o experimento ATLAS (CERN, Suíça). Objetivamos implementar algoritmos para tratar registros semelhantes e diminuir o ciclo de treinamento do ensemble de redes neurais operante no experimento.",
+				"funding": "Financiado por Bolsa CNPq"
 			},
 			"ta-algorithms": {
 				"title": "Monitor de Algoritmos e Estruturas de Dados",
-				"text": "Tive o prazer de dar aulas, elaborar exercícios e propor trabalhos, além de auxiliar e conhecer as individualidades de cada aluno. Foi minha melhor experiência na faculdade."
+				"text": "Tive o prazer de dar aulas, elaborar exercícios e propor trabalhos, além de auxiliar e conhecer as individualidades de cada aluno. Foi minha melhor experiência na faculdade.",
+				"funding": "Financiado por Bolsa de Monitoria"
 			}
 		},
 		"my-papers": {
@@ -57,16 +59,16 @@
 			"title": "Projetos Práticos",
 			"first": {
 				"title": "Issues Monitoring",
-				"text": "Sistema construído em equipe com técnicas de Eng. de Software para monitorar laboratórios da UFRJ. Envolve Arduinos, interface web, um servidor central e um parser para integração com outro sistema.",
+				"description": "Sistema construído em equipe com técnicas de Eng. de Software para monitorar laboratórios da UFRJ. Envolve Arduinos, interface web, um servidor central e um parser para integração com outro sistema.",
 				"button": "Artefatos"
 			},
 			"second": {
 				"title": "Social Compassion",
-				"text": "Uma visualização interativa com dados de 222.180 tweets mostrando as reações dos usuários à guerra na Síria. Este projeto pessoal foi inspirado em uma exposição sobre visualização de dados que ocorreu no Rio de Janeiro."
+				"description": "Uma visualização interativa com dados de 222.180 tweets mostrando as reações dos usuários à guerra na Síria. Este projeto pessoal foi inspirado em uma exposição sobre visualização de dados que ocorreu no Rio de Janeiro."
 			},
 			"third": {
 				"title": "Interactive Flowchart",
-				"text": "Fluxograma responsivo que permite ao usuário marcar suas matérias cursadas e ver requisitos. É facilmente adaptável a outros cursos por qualquer pessoa leiga em programação."
+				"description": "Fluxograma responsivo que permite ao usuário marcar suas matérias cursadas e ver requisitos. É facilmente adaptável a outros cursos por qualquer pessoa leiga em programação."
 			},
 			"demo-button": "Demo"
 		},
@@ -103,6 +105,21 @@
             "third": {
                 "title": "Nota 115/120 TOEFL iBT (98\u00ba percentil)",
                 "description": "30/30 na seção Reading, 30/30 em Listening, 26/30 em Speaking e 29/30 em Writing, somando um total de 115/120 pontos (Outubro de 2018)."
+            }
+        },
+		"misc": {
+            "title": "Causas Sociais",
+            "first": {
+                "title": "LibrasOffice e Outros Projetos",
+                "description": "Em 2016, colaborei na construção do site para o LibrasOffice, um software de planilhas para deficienetes auditivos. Atualmente, participo do desenvolvimento de outro app envolvendo tradução de linguagem de sinais."
+            },
+            "second": {
+                "title": "Música",
+                "description": "Tenho grande paixão por instrumentos com cordas e, em especial, pela guitarra. Gosto de compor de tempos em tempos e espero poder aprender violino em um futuro breve."
+            },
+            "third": {
+                "title": "Cachorros",
+                "description": "Sou apaixonado por cachorros e cuido atualmente da Melzinha (foto), que resgatamos das ruas de São Paulo já idosa em 2017."
             }
         },
         "months": {

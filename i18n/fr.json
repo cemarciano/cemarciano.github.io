@@ -16,15 +16,17 @@
 			},
 			"research-graphs": {
 				"title": "Recherche en<br/>Algorithmes et Graphes",
-				"text": "J'ai participé à deux projets théoriques distincts impliquant des algorithmes de graphes, l'optimisation combinatoire et des systèmes distribués, qui ont abouti à un article scientifique soumis en novembre 2018."
+				"description": "J'ai participé à deux projets théoriques distincts impliquant des algorithmes de graphes, l'optimisation combinatoire et des systèmes distribués, qui ont abouti à un article scientifique soumis en novembre 2018."
 			},
 			"research-big-data": {
 				"title": "Recherche en Big Data et Machine Learning",
-				"text": "Projet en collaboration avec l'expérience ATLAS (CERN, Suisse). Notre objectif est de mettre en oeuvre des algorithmes pour identifier des données similaires et réduire le cycle d'apprentissage des réseaux de neurones en fonctionnement chez ATLAS, tout en préservant les performances."
+				"description": "Projet en collaboration avec l'expérience ATLAS (CERN, Suisse). Notre objectif est de mettre en oeuvre des algorithmes pour identifier des données similaires et réduire le cycle d'apprentissage des réseaux de neurones en fonctionnement chez ATLAS, tout en préservant les performances.",
+				"funding": "Financé par la bourse CNPq"
 			},
 			"ta-algorithms": {
 				"title": "Assistant d'enseignement en Algorithmes et Str. de Données",
-				"text": "J'ai eu le plaisir de donner des conférences, d'élaborer des exercices et de proposer des travaux pratiques, ainsi que d'aider et de connaître les particularités de chaque étudiant. C'était ma meilleure expérience à l'université."
+				"description": "J'ai eu le plaisir de donner des conférences, d'élaborer des exercices et de proposer des travaux pratiques, ainsi que d'aider et de connaître les particularités de chaque étudiant. C'était ma meilleure expérience à l'université.",
+				"funding": "Financé par une bourse d’AE"
 			}
 		},
 		"my-papers": {
@@ -103,6 +105,21 @@
             "third": {
                 "title": "115/120 dans le TOEFL iBT (98e centile)",
                 "description": "30/30 en Lecture, 30/30 en Écoute, 26/30 en Expression Orale et 29/30 en Écriture, totalisant 115/120 points (Octobre 2018)."
+            }
+        },
+		"misc": {
+            "title": "Personal & Social Activities",
+            "first": {
+                "title": "LibrasOffice e Outros Projetos",
+                "description": "Gosto de atuar em iniciativas de construção de software para deficientes auditivos. Em 2016, colaborei no desenvolvimento do website do LibrasOffice (planilhas em Libras) e recentemente iniciei o desenvolvimento de um app de tradução para Libras."
+            },
+            "second": {
+                "title": "Music",
+                "description": "Tenho grande paixão por instrumentos com cordas e, em especial, pela guitarra. Gosto de compor de tempos em tempos e espero poder aprender violino em um futuro breve."
+            },
+            "third": {
+                "title": "Dogs",
+                "description": "Sou apaixonado por cachorros e cuido atualmente da Melzinha (foto), que resgatamos da rua já idosa em 2017."
             }
         },
         "months": {

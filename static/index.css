@@ -116,6 +116,13 @@ body {
 	margin-top: -11px !important;
 }
 
+.funding {
+	margin-top: -11px !important;
+	color: #4c8fff !important;
+	opacity: 0.8;
+	font-size: 13px !important;
+}
+
 /* My Papers Section */
 
 #my-papers {
@@ -189,7 +196,7 @@ body {
 
 /* My Practical Projects Section */
 
-#my-projects {
+#my-projects, #misc {
 	margin-bottom: 60px;
 }
 

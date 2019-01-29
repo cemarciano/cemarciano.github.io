@@ -20,11 +20,13 @@
 			},
 			"research-big-data": {
 				"title": "Undergraduate Research in Big Data and Mach. Learning",
-				"text": "Project in collaboration with the ATLAS Experiment (CERN, Switzerland). Our goal is to implement algorithms to identify similar data and diminish the training cycle of the neural networks in operation at ATLAS while preserving performance."
+				"text": "Project in collaboration with the ATLAS Experiment (CERN, Switzerland). Our goal is to implement algorithms to identify similar data and diminish the training cycle of the neural networks in operation at ATLAS while preserving performance.",
+				"funding": "Funded by CNPq Fellowship"
 			},
 			"ta-algorithms": {
 				"title": "Teaching Assistant in Algorithms and Data Struct.",
-				"text": "I had the pleasure to deliver lectures, elaborate exercises and propose practical assignments, as well as assisting and getting to know the individualities of each student. It was my best experience in college."
+				"text": "I had the pleasure to deliver lectures, elaborate exercises and propose practical assignments, as well as assisting and getting to know the individualities of each student. It was my best experience in college.",
+				"funding": "Funded by TA Scholarship"
 			}
 		},
 		"my-papers": {
@@ -57,16 +59,16 @@
 			"title": "Practical Projects",
 			"first": {
 				"title": "Issues Monitoring",
-				"text": "System built with Software Engineering techniques as a team to monitor activities of university labs at UFRJ. It features Arduinos, a web interface, a server and a parser for integration with a proprietary system.",
+				"description": "System built with Software Engineering techniques as a team to monitor activities of university labs at UFRJ. It features Arduinos, a web interface, a server and a parser for integration with a proprietary system.",
 				"button": "Artifacts"
 			},
 			"second": {
 				"title": "Social Compassion",
-				"text": "An interactive visualization collecting data from 222,180 tweets displaying user reactions to the civil war in Syria. This personal project was inspired by an art exhibition exploring data visualization that took place in Rio de Janeiro."
+				"description": "An interactive visualization collecting data from 222,180 tweets displaying user reactions to the civil war in Syria. This personal project was inspired by an art exhibition exploring data visualization that took place in Rio de Janeiro."
 			},
 			"third": {
 				"title": "Interactive Flowchart",
-				"text": "Responsive flowchart that allows the user to set completed courses and see their requirements. It's easily adaptable to other programs of study by anyone uninitiated in programming."
+				"description": "Responsive flowchart that allows the user to set completed courses and see their requirements. It's easily adaptable to other programs of study by anyone uninitiated in programming."
 			},
 			"demo-button": "Demo"
 		},
@@ -103,6 +105,21 @@
             "third": {
                 "title": "115/120 in TOEFL iBT (98th percentile)",
                 "description": "30/30 in Reading section, 30/30 in Listening, 26/30 in Speaking and 29/30 in Writing, adding up to a total of 115/120 points (October 2018)."
+            }
+        },
+		"misc": {
+            "title": "Personal & Social Activities",
+            "first": {
+                "title": "LibrasOffice & Other Projects",
+                "description": "Gosto de atuar em iniciativas de construção de software para deficientes auditivos. Em 2016, colaborei no desenvolvimento do website do LibrasOffice (planilhas em Libras) e recentemente iniciei o desenvolvimento de um app de tradução para Libras."
+            },
+            "second": {
+                "title": "Music",
+                "description": "Tenho grande paixão por instrumentos com cordas e, em especial, pela guitarra. Gosto de compor de tempos em tempos e espero poder aprender violino em um futuro breve."
+            },
+            "third": {
+                "title": "Dogs",
+                "description": "Sou apaixonado por cachorros e cuido atualmente da Melzinha (foto), que resgatamos das ruas de São Paulo já idosa em 2017."
             }
         },
         "months": {
