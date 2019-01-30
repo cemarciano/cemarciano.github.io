@@ -116,6 +116,13 @@ body {
 	margin-top: -11px !important;
 }
 
+.funding {
+	margin-top: -11px !important;
+	color: #4c8fff !important;
+	opacity: 0.8;
+	font-size: 13px !important;
+}
+
 /* My Papers Section */
 
 #my-papers {
@@ -215,7 +222,7 @@ body {
 .horizontal-item {
 	position: relative;
 	height: 120px;
-	margin-top: 60px;
+	margin-top: 80px;
 	margin-left: 20px;
 }
 
@@ -249,7 +256,7 @@ body {
     border: none;
     color: white;
     height: 1.2px;
-	width: 150px;
+	width: 160px;
     background: black;
     background: -webkit-gradient(radial, 50% 100%, 0, 50% 50%, 80, from(#0960ed), to(#edf3ff));
 	transform: rotate(90deg);
