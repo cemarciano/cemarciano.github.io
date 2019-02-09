@@ -69,8 +69,9 @@
 				"text": "Uma visualização interativa com dados de 222.180 tweets mostrando as reações dos usuários à guerra na Síria. Este projeto pessoal foi inspirado em uma exposição sobre visualização de dados que ocorreu no Rio de Janeiro."
 			},
 			"third": {
-				"title": "Interactive Flowchart",
-				"text": "Fluxograma responsivo que permite ao usuário marcar suas matérias cursadas e ver requisitos. É facilmente adaptável a outros cursos por qualquer pessoa leiga em programação."
+				"title": "LibrasOffice & Outros",
+				"text": "Ajudei a desenvolver um vídeo e um website para o LibrasOffice, que incorpora a linguagem de sinais brasileira (Libras) ao OpenOffice Calc. No momento, também estou envolvido na criação de software para deficientes auditivos utilizando visão computacional.",
+				"button": "Vídeo LibrasOffice"
 			},
 			"demo-button": "Demo"
 		},

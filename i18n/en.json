@@ -69,8 +69,9 @@
 				"text": "An interactive visualization collecting data from 222,180 tweets displaying user reactions to the civil war in Syria. This personal project was inspired by an art exhibition exploring data visualization that took place in Rio de Janeiro."
 			},
 			"third": {
-				"title": "Interactive Flowchart",
-				"text": "Responsive flowchart that allows the user to set completed courses and see their requirements. It's easily adaptable to other programs of study by anyone uninitiated in programming."
+				"title": "LibrasOffice & Others",
+				"text": "I've helped develop a website and a video for LibrasOffice, which adds Brazilian Sign Language (Libras) to OpenOffice Calc. At the moment, I'm also involved in the creation of software for the Deaf using computer vision techniques.",
+				"button": "LibrasOffice Video"
 			},
 			"demo-button": "Demo"
 		},
