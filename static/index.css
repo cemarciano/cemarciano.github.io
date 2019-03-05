@@ -76,7 +76,7 @@ body {
 	display: inline-block;
 }
 
-.translation .flag {
+.flag {
 	display: inline-block;
 	background-size: cover;
 	width: 30px;
@@ -85,7 +85,10 @@ body {
 	margin-left: 6px;
 	position: relative;
 	top: 4px;
-    cursor: pointer;
+}
+
+.clickable {
+	cursor: pointer;
 }
 
 

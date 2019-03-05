@@ -60,9 +60,9 @@ function obtainTranslationFromURL(){
 	let urlParams = new URLSearchParams(window.location.search);
 	// Creates an empty list of available languages:
 	var available = [];
-	// Gathers all flag elements:
-	$(".flag").each(function(){
-		// Adds id (available langue) to the list:
+	// Gathers all clickable flag elements:
+	$(".flag").filter(".clickable").each(function(){
+		// Adds id (available language) to the list:
 		available.push($(this).attr("id"));
 	});
 	// Checks if desired translation is in the list (i.e. is available):
@@ -77,7 +77,7 @@ function obtainTranslationFromURL(){
 
 function loadRemainingTranslations(tabu){
 	// Captures all translate options in the DOM:
-	$(".flag").each(function(){
+	$(".flag").filter(".clickable").each(function(){
 		// Retrieves language:
 		let lang = $(this).attr("id");
 		// Adds click callback:
