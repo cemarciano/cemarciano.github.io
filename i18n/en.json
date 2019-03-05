@@ -38,7 +38,8 @@
 				"submitted": "submitted",
 				"approved": "approved",
 				"published": "published"
-			}
+			},
+			"inoc-info": "This paper was reworked to include new research advancements and instead submitted to INOC 2019."
 		},
         "my-languages": {
             "title": "Languages & Skills",

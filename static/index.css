@@ -130,15 +130,17 @@ body {
 
 #my-papers {
 	display: flex;
-	margin-top: -28px;
+	margin-top: -18px;
 	margin-left: 50px;
-	margin-bottom: 72px;
+	margin-bottom: -20px;
 }
 
 #my-papers li {
 	line-height: 27px;
 	text-align: justify;
     text-justify: inter-word;
+	margin-top: 10px;
+	margin-bottom: 30px;
 }
 
 #my-papers span {

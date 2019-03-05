@@ -38,7 +38,8 @@
 				"submitted": "submetido",
 				"approved": "aprovado",
 				"published": "publicado"
-			}
+			},
+			"inoc-info": "Este artigo foi retrabalhado para incluir novos avanços na pesquisa e submetido ao INOC 2019."
 		},
         "my-languages": {
             "title": "Linguagens & Competências",
