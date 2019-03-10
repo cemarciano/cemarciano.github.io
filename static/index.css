@@ -9,13 +9,14 @@
 }
 
 @font-face {
-	font-family: "FontAwesome";
-	src: url('fonts/font-awesome.ttf');
+	font-family: "Icons";
+	src: url('fonts/icomoon.ttf');
 }
 
 body {
 	background: #f2f2f2 url('images/bg-tile.png');
 }
+
 
 
 #white-page {
@@ -117,6 +118,28 @@ body {
 
 .supervisor {
 	margin-top: -11px !important;
+}
+
+.link-icon, .linkedin-icon {
+	text-decoration: none;
+}
+
+.link-icon:before, .linkedin-icon:before {
+	position: relative;
+	top: 1px;
+	font-family: 'Icons';
+	margin-left: 5px;
+	color: #4c8fff !important;
+}
+
+.link-icon:before {
+	content: "\e900";
+	font-weight: 900;
+}
+
+.linkedin-icon:before {
+	content: "\eac9";
+	font-weight: 1;
 }
 
 .funding {
