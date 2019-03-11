@@ -61,7 +61,7 @@ function obtainTranslationFromURL(){
 	// Creates an empty list of available languages:
 	var available = [];
 	// Gathers all clickable flag elements:
-	$(".flag").filter(".clickable").each(function(){
+	$(".translation .flag").each(function(){
 		// Adds id (available language) to the list:
 		available.push($(this).attr("id"));
 	});
@@ -77,7 +77,7 @@ function obtainTranslationFromURL(){
 
 function loadRemainingTranslations(tabu){
 	// Captures all translate options in the DOM:
-	$(".flag").filter(".clickable").each(function(){
+	$(".translation .flag").each(function(){
 		// Retrieves language:
 		let lang = $(this).attr("id");
 		// Adds click callback:
