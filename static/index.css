@@ -113,6 +113,10 @@ body {
 	margin-bottom: 80px;
 }
 
+#my-experiences h4 {
+	white-space: nowrap;
+}
+
 .supervisor {
 	margin-top: -11px !important;
 }
