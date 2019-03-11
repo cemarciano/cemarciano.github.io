@@ -88,12 +88,9 @@ body {
 	top: 4px;
 }
 
-.clickable {
+
+.translation .flag:hover {
 	cursor: pointer;
-}
-
-
-.translation .flag:hover{
 	box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.05), 0px 0px 9px rgba(82, 168, 236, 0.9);
 }
 
@@ -120,16 +117,29 @@ body {
 	margin-top: -11px !important;
 }
 
-.link-icon, .linkedin-icon {
+.funding {
+	margin-top: -11px !important;
+	color: #4c8fff !important;
+	opacity: 0.8;
+	font-size: 13px !important;
+}
+
+/* Icons for external links: */
+
+.icon {
 	text-decoration: none;
 }
 
-.link-icon:before, .linkedin-icon:before {
+.icon:before {
 	position: relative;
 	top: 1px;
 	font-family: 'Icons';
 	margin-left: 5px;
 	color: #4c8fff !important;
+}
+
+.icon:hover {
+	text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.03), 0px 0px 7px rgba(82, 168, 236, 0.6);
 }
 
 .link-icon:before {
@@ -140,13 +150,6 @@ body {
 .linkedin-icon:before {
 	content: "\eac9";
 	font-weight: 1;
-}
-
-.funding {
-	margin-top: -11px !important;
-	color: #4c8fff !important;
-	opacity: 0.8;
-	font-size: 13px !important;
 }
 
 /* My Papers Section */
