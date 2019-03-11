@@ -377,6 +377,7 @@ body {
 	left: -1%;
 	font-size: 10pt;
 	line-height: 14px;
+	margin-right: -10px;
 }
 
 .btn:hover {

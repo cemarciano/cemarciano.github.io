@@ -33,7 +33,8 @@
 		},
 		"my-papers": {
 			"title": "Recherche",
-			"view-pdf": "Voir le PDF",
+			"view-text": "Voir le Texte",
+			"view-slides": "Voir les Diapos",
 			"status": {
 				"submitted": "soumis",
 				"approved": "approuvé",
