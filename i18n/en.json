@@ -40,7 +40,8 @@
 				"approved": "approved",
 				"published": "published"
 			},
-			"inoc-info": "This paper was reworked to include new research advancements and instead submitted to INOC 2019."
+			"inoc-info": "This paper was reworked to include new research advancements and instead submitted to INOC 2019.",
+			"tcc-info": "Final-year undergraduate project."
 		},
         "my-languages": {
             "title": "Languages & Skills",

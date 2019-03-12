@@ -40,7 +40,8 @@
 				"approved": "aprovado",
 				"published": "publicado"
 			},
-			"inoc-info": "Este artigo foi retrabalhado para incluir novos avanços na pesquisa e submetido ao INOC 2019."
+			"inoc-info": "Este artigo foi retrabalhado para incluir novos avanços na pesquisa e submetido ao INOC 2019.",
+			"tcc-info": "Projeto final de graduação."
 		},
         "my-languages": {
             "title": "Linguagens & Competências",
