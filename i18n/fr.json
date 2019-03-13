@@ -82,7 +82,7 @@
             "title": "Cours Pertinents",
             "core-courses": {
 				"title": "Cours de base",
-				"course1": "Algorithmes et Structures de Données",
+				"course1": "Algorithmes et Struct. de Données",
 				"course2": "Théorie des Graphes",
 				"course3": "Optimisation",
 				"course4": "Intelligence Computationnelle",
