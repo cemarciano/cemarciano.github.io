@@ -69,14 +69,14 @@
 			},
 			"second": {
 				"title": "Social Compassion",
-				"text": "Uma visualização interativa com dados de 222.180 tweets mostrando as reações dos usuários à guerra na Síria. Este projeto pessoal foi inspirado em uma exposição sobre visualização de dados que ocorreu no Rio de Janeiro."
+				"text": "Uma visualização web interativa com dados de 222.180 tweets mostrando as reações dos usuários à guerra na Síria. Este projeto pessoal foi inspirado em uma exposição sobre visualização de dados que ocorreu no Rio de Janeiro.",
+				"button": "Visitar"
 			},
 			"third": {
 				"title": "LibrasOffice & Outros",
 				"text": "Ajudei a desenvolver um vídeo e um website para o LibrasOffice, que incorpora a linguagem de sinais brasileira (Libras) ao OpenOffice Calc. No momento, desenvolvo um app para deficientes auditivos envolvendo visão computacional.",
 				"button": "Vídeo LibrasOffice"
-			},
-			"demo-button": "Demo"
+			}
 		},
 		"my-courses": {
             "title": "Cursos Relevantes",
