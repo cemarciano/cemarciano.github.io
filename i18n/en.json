@@ -69,12 +69,12 @@
 			},
 			"second": {
 				"title": "Social Compassion",
-				"text": "An interactive web-based visualization collecting data from 222,180 tweets displaying user reactions to the civil war in Syria. This personal project was inspired by an art exhibition exploring data visualization that took place in Rio de Janeiro.",
+				"text": "An interactive web-based visualization collecting data from 222,180 tweets displaying user reactions to the civil war in Syria. This personal project was inspired by an art exhibition exploring data visualization that took place in Rio de Janeiro, Brazil.",
 				"button": "Visit"
 			},
 			"third": {
 				"title": "LibrasOffice & Others",
-				"text": "I've helped develop a website and a video for LibrasOffice, which adds Brazilian Sign Language (Libras) to OpenOffice Calc. At the moment, I'm also involved in the creation of software for the Deaf using computer vision techniques.",
+				"text": "I've helped develop a website and a video for LibrasOffice, which adds support for Brazilian Sign Language (Libras) to OpenOffice Calc. At the moment, I'm also involved in the creation of software for the Deaf using computer vision techniques.",
 				"button": "LibrasOffice Video"
 			}
 		},
