@@ -37,10 +37,9 @@
 			"view-slides": "Voir les Diapos",
 			"status": {
 				"submitted": "soumis",
-				"approved": "approuvé",
+				"accepted": "accepté",
 				"published": "publié"
 			},
-			"inoc-info": "Ce document a été retravaillé pour inclure les nouvelles avancées de la recherche et a été soumis à INOC 2019.",
 			"tcc-info": "Projet de fin d'études de premier cycle."
 		},
         "my-languages": {

@@ -37,10 +37,9 @@
 			"view-slides": "View Slides",
 			"status": {
 				"submitted": "submitted",
-				"approved": "approved",
+				"accepted": "accepted",
 				"published": "published"
 			},
-			"inoc-info": "This paper was reworked to include new research advancements and instead submitted to INOC 2019.",
 			"tcc-info": "Final-year undergraduate project."
 		},
         "my-languages": {

@@ -37,10 +37,9 @@
 			"view-slides": "Ver Slides",
 			"status": {
 				"submitted": "submetido",
-				"approved": "aprovado",
+				"accepted": "aceito",
 				"published": "publicado"
 			},
-			"inoc-info": "Este artigo foi retrabalhado para incluir novos avanços na pesquisa e submetido ao INOC 2019.",
 			"tcc-info": "Projeto final de graduação."
 		},
         "my-languages": {
