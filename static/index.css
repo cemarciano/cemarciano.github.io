@@ -142,7 +142,7 @@ body {
 	color: #4c8fff !important;
 }
 
-.icon:hover {
+.link-icon:hover, .linkedin-icon:hover {
 	text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.03), 0px 0px 7px rgba(82, 168, 236, 0.6);
 }
 
@@ -155,6 +155,7 @@ body {
 	content: "\eac9";
 	font-weight: 1;
 }
+
 
 /* My Papers Section */
 
@@ -176,6 +177,33 @@ body {
 #my-papers .status {
 	color: #4c8fff;
 }
+
+.paper-awards {
+	margin-top: -18px;
+	margin-left: 40px;
+	margin-bottom: 25px;
+}
+
+.award-icon, .paper-awards span {
+	display: inline-block;
+}
+
+.paper-awards span {
+	position: relative;
+	left: 4px;
+	margin-right: 3px;
+	font-size: 16px;
+	color: #6391dd;
+}
+
+.award-icon:before {
+	content: "\e901";
+	font-weight: 1;
+	font-size: 22px;
+	position: relative;
+	top: 4px;
+}
+
 
 /* My Languages Section */
 
@@ -378,6 +406,12 @@ body {
 	color: #55acee;
 	white-space: nowrap;
 	border: 1.4px #55acee solid;
+}
+
+.small-btn {
+	padding: 4.5px 6px !important;
+	font-size: 12.5px !important;
+	top: -1px;
 }
 
 .inline-btn {
