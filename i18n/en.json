@@ -85,7 +85,7 @@
 				"title": "Core Courses",
 				"course1": "Algorithms and Data Structures",
 				"course2": "Graph Theory",
-				"course3": "Optimization",
+				"course3": "Database Design",
 				"course4": "Computational Intelligence",
 				"course5": "Theory of Computation"
 			},
@@ -93,9 +93,9 @@
 				"title": "Other Courses",
 				"course1": "Graph Optimization",
 				"course2": "Probability and Statistics",
-				"course3": "Calculus I-IV & Linear Algebra",
-				"course4": "Machine Learning (Coursera)",
-				"course5": "Brasas (english) & Alliance Française"
+				"course3": "Markov Chain Monte Carlo Methods",
+				"course4": "Calculus I-IV & Linear Algebra",
+				"course5": "Machine Learning (Coursera)"
 			}
         },
         "my-achievements": {

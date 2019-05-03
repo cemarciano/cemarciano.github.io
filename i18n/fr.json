@@ -85,7 +85,7 @@
 				"title": "Cours de base",
 				"course1": "Algorithmes et Struct. de Données",
 				"course2": "Théorie des Graphes",
-				"course3": "Optimisation",
+				"course3": "Conception de Base de Données",
 				"course4": "Intelligence Computationnelle",
 				"course5": "Informatique Théorique"
 			},
@@ -93,9 +93,9 @@
 				"title": "Autres Cours",
 				"course1": "Optimisation dans les Graphes",
 				"course2": "Probabilité et Statistiques",
-				"course3": "Calcul I-IV & Algèbre Linéaire",
-				"course4": "Machine Learning (Coursera)",
-				"course5": "Brasas (anglais) & Alliance Française"
+				"course3": "Méthodes Markov Chain Monte Carlo",
+				"course4": "Calcul I-IV & Algèbre Linéaire",
+				"course5": "Machine Learning (Coursera)"
 			}
         },
         "my-achievements": {

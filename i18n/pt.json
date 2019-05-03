@@ -85,7 +85,7 @@
 				"title": "Cursos Principais",
 				"course1": "Algoritmos e Estruturas de Dados",
 				"course2": "Teoria dos Grafos",
-				"course3": "Otimização",
+				"course3": "Construção de Banco de Dados",
 				"course4": "Inteligência Computacional",
 				"course5": "Teoria da Computação"
 			},
@@ -93,9 +93,9 @@
 				"title": "Outros Cursos",
 				"course1": "Otimização em Grafos",
 				"course2": "Probabilidade e Estatística",
-				"course3": "Cálculo I-IV & Álgebra Linear",
-				"course4": "Machine Learning (Coursera)",
-				"course5": "Brasas (inglês) & Aliança Francesa"
+				"course3": "Métodos Markov Chain Monte Carlo",
+				"course4": "Cálculo I-IV & Álgebra Linear",
+				"course5": "Machine Learning (Coursera)"
 			}
         },
         "my-achievements": {
