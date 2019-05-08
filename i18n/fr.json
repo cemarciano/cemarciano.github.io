@@ -1,9 +1,10 @@
 [
 	{
 		"basic-info": {
-            "job": "Étudiant de 1er cycle en Génie Informatique (B.S.)",
+            "job": "Ingénieur Informaticien",
 			"university": "Université Fédérale de Rio de Janeiro \u2014 UFRJ \u2014 Brésil",
-            "graduation": "Remise de diplômes: 7 Mai 2019 \u2014 GPA: 8,8/10",
+            "degree": "Bac+5 (équivalent) cum laude",
+			"gpa": "GPA: 8,8/10",
             "github": "Mon Github",
 			"cv": "CV en PDF"
 		},
@@ -130,7 +131,8 @@
             "today": "Actuel"
         },
 		"assets": {
-			"and": "et"
+			"and": "et",
+			"to": "à"
 		}
 	}
 ]

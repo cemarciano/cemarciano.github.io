@@ -1,9 +1,10 @@
 [
 	{
 		"basic-info": {
-            "job": "Estudante de Engenharia de Computação e Informação",
+            "job": "Engenheiro de Computação e Informação",
 			"university": "Universidade Federal do Rio de Janeiro \u2014 UFRJ \u2014 Brasil",
-            "graduation": "Formatura: 7 de Maio de 2019 \u2014 CR acumulado: 8,8",
+            "degree": "Bacharel cum laude",
+			"gpa": "CR final: 8,8/10",
             "github": "Meu Github",
 			"cv": "CV em PDF"
 		},
@@ -130,7 +131,8 @@
             "today": "Hoje"
         },
 		"assets": {
-			"and": "e"
+			"and": "e",
+			"to": "a"
 		}
 	}
 ]

@@ -1,9 +1,10 @@
 [
 	{
 		"basic-info": {
-            "job": "Information and Computer Engineering B.S. Student",
+            "job": "Information and Computer Engineer",
 			"university": "Federal University of Rio de Janeiro \u2014 UFRJ \u2014 Brazil",
-            "graduation": "Graduation: May 7th, 2019 \u2014 GPA: 8.8/10",
+            "degree": "B.S. cum laude",
+			"gpa": "GPA: 8.8/10",
             "github": "My Github",
 			"cv": "CV in PDF"
 		},
@@ -23,7 +24,7 @@
 			"research-big-data": {
 				"title": "Undergraduate Research in Big Data and Mach. Learning",
 				"text": "Project in collaboration with the ATLAS Experiment (CERN, Switzerland). Our goal is to implement algorithms to identify similar data and diminish the training cycle of the neural networks in operation at ATLAS while preserving performance.",
-				"funding": "Funded by CNPq Fellowship"
+				"funding": "Funded by CNPq Scholarship"
 			},
 			"ta-algorithms": {
 				"title": "Teaching Assistant in Algorithms and Data Struct.",
@@ -130,7 +131,8 @@
             "today": "Today"
         },
 		"assets": {
-			"and": "and"
+			"and": "and",
+			"to": "to"
 		}
 	}
 ]
