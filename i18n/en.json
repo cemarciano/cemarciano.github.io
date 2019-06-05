@@ -112,7 +112,8 @@
             },
             "third": {
                 "title": "Highest GPA in Comput. Engineering",
-                "description": "Graduated with the highest GPA among my Computer Engineering peers in Spring 2019, being awarded the metal plaque above."
+                "description": "Graduated with the highest GPA among my Computer Engineering peers in Spring 2019, being awarded the metal plaque above.",
+				"button": "View Plaque"
             }
         },
         "months": {

@@ -112,7 +112,8 @@
             },
             "third": {
                 "title": "Maior CRA Eng. de Computação UFRJ",
-                "description": "Graduado com o maior Coeficiente de Rendimento entre meus colegas de Engenharia de Computação em 2019/1, recebendo a placa de metal acima."
+                "description": "Graduado com o maior Coeficiente de Rendimento entre meus colegas de Engenharia de Computação em 2019/1, recebendo a placa de metal acima.",
+				"button": "Ver Placa"
             }
         },
         "months": {

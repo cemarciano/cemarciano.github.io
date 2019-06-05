@@ -112,7 +112,8 @@
             },
             "third": {
                 "title": "GPA le plus élevé en génie informatique",
-                "description": "Diplômé avec la plus haute moyenne cumulative parmi mes pairs en génie informatique au printemps 2019, en recevant la plaque de métal ci-dessus."
+                "description": "Diplômé avec la plus haute moyenne cumulative parmi mes pairs en génie informatique au printemps 2019, en recevant la plaque de métal ci-dessus.",
+				"button": "Voir la Plaque"
             }
         },
         "months": {
