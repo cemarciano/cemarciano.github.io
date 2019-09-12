@@ -85,7 +85,7 @@
             "core-courses": {
 				"title": "Core Courses",
 				"course1": "Algorithms and Data Structures",
-				"course2": "Graph Theory",
+				"course2": "Computer Architecture",
 				"course3": "Database Design",
 				"course4": "Computational Intelligence",
 				"course5": "Theory of Computation"

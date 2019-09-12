@@ -85,7 +85,7 @@
             "core-courses": {
 				"title": "Cours de base",
 				"course1": "Algorithmes et Struct. de Données",
-				"course2": "Théorie des Graphes",
+				"course2": "Architecture Matérielle",
 				"course3": "Conception de Base de Données",
 				"course4": "Intelligence Computationnelle",
 				"course5": "Informatique Théorique"
