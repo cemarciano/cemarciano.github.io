@@ -3,37 +3,29 @@
 		"basic-info": {
             "job": "Ingénieur Informatique et de l'Information",
 			"university": "Université Fédérale de Rio de Janeiro \u2014 UFRJ \u2014 Brésil",
-            "degree": "Bac+5 (équivalent) cum laude",
+            "degree": "License cum laude",
 			"gpa": "GPA: 8,8/10",
             "github": "Mon Github",
 			"cv": "CV en PDF"
 		},
         "my-experiences": {
-            "title": "Expériences Académiques",
+            "title": "Expériences de Recherche",
 			"supervisor": "Superviseur",
-            "ta-graphs": {
+            "research1": {
 				"title": "Assistant d'enseignement en Théorie des Graphes",
+				"city": "Rio, Brésil",
 				"text": "En plus d’avoir la possibilité d’apporter une assistance en personne et à distance, j’ai orienté les étudiants sur la manière de réaliser leurs travaux pratiques. J'ai aussi noté leurs travaux.",
 				"funding": "Participation Volontaire"
 			},
-			"research-graphs": {
+			"research2": {
 				"title": "Recherche en<br/>Algorithmes et Graphes",
+				"city": "Rio, Brésil",
 				"text": "J'ai participé à deux projets théoriques distincts impliquant des algorithmes de graphes, l'optimisation combinatoire et des systèmes distribués, qui ont abouti à un article scientifique soumis en novembre 2018.",
 				"funding": "Participation Volontaire"
-			},
-			"research-big-data": {
-				"title": "Recherche en Big Data et Machine Learning",
-				"text": "Projet en collaboration avec l'expérience ATLAS (CERN, Suisse). Notre objectif est de mettre en oeuvre des algorithmes pour identifier des données similaires et réduire le cycle d'apprentissage des réseaux de neurones en fonctionnement chez ATLAS, tout en préservant les performances.",
-				"funding": "Financé par la Bourse CNPq"
-			},
-			"ta-algorithms": {
-				"title": "Assistant d'enseignement en Algorithmes et Str. de Données",
-				"text": "J'ai eu le plaisir de donner des conférences, d'élaborer des exercices et de proposer des travaux pratiques, ainsi que d'aider et de connaître les particularités de chaque étudiant. C'était ma meilleure expérience à l'université.",
-				"funding": "Financé par une Bourse d’A.Ens."
 			}
 		},
 		"my-papers": {
-			"title": "Recherche",
+			"title": "Publications",
 			"view-text": "Voir le Texte",
 			"view-slides": "Voir les Diapos",
 			"status": {

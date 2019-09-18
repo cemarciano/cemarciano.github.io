@@ -128,6 +128,13 @@ body {
 	font-size: 13px !important;
 }
 
+.blue {
+	color: #0e5fe6 !important;
+	opacity: 0.8;
+	padding-bottom: 30px;
+	line-height: 2;
+}
+
 /* Icons for external links: */
 
 .icon {
