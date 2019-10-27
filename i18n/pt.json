@@ -50,6 +50,15 @@
 				"funding": "Financiado pela Bolsa CNPq"
 			}
 		},
+		"my-tas":{
+			"title": "Monitorias Acadêmicas",
+			"professor": "Professor",
+			"ufrj": {
+				"title": "Universidade Federal do Rio de Janeiro",
+				"eel470": "Algoritmos e Estruturas de Dados",
+				"cos242": "Teoria dos Grafos"
+			}
+		},
 		"my-papers": {
 			"title": "Pesquisa",
 			"view-text": "Ver Texto",

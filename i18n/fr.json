@@ -39,6 +39,15 @@
 			"view-certificate": "Voir le Certificat",
 			"tcc-info": "Projet de fin d'études de premier cycle."
 		},
+		"my-tas":{
+			"title": "Assistant à l'Enseignement",
+			"professor": "Professeur",
+			"ufrj": {
+				"title": "Université Fédérale de Rio de Janeiro",
+				"eel470": "Algorithmes et Structures de Données",
+				"cos242": "Théorie des Graphes"
+			}
+		},
         "my-languages": {
             "title": "Langages & Compétences",
 			"status": {

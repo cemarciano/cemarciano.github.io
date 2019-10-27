@@ -39,6 +39,15 @@
 			"view-certificate": "View Certificate",
 			"tcc-info": "Final-year undergraduate project."
 		},
+		"my-tas":{
+			"title": "Teaching Assistantships",
+			"professor": "Professor",
+			"ufrj": {
+				"title": "Federal University of Rio de Janeiro",
+				"eel470": "Algorithms and Data Structures",
+				"cos242": "Graph Theory"
+			}
+		},
         "my-languages": {
             "title": "Languages & Skills",
 			"status": {
