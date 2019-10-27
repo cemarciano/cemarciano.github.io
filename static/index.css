@@ -248,6 +248,12 @@ body {
 	margin-bottom: 5px;
 }
 
+.board-univ-date {
+	color: #487fda !important;
+	margin-left: 20px;
+	font-size: 20px !important;
+}
+
 .board-univ-info a {
 	font-size: 16px;
 }
