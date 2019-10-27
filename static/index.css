@@ -168,7 +168,7 @@ body {
 	display: flex;
 	margin-top: -18px;
 	margin-left: 50px;
-	margin-bottom: -20px;
+	margin-bottom: -30px;
 }
 
 #my-papers li {
@@ -217,9 +217,6 @@ body {
 	margin-bottom: 46%;
 }
 
-#board-wrapper {
-
-}
 
 #board-img {
 	position: absolute;
@@ -240,11 +237,19 @@ body {
 .board-univ-title {
 	display: block;
 	font-size: 26px;
+	margin-top: 5px;
 }
 
-.board-univ-courses {
+.board-univ-info {
 	display: block;
-	font-size: 24px;
+	font-size: 21px;
+	color: #487fda !important;
+	margin-left: 60px;
+	margin-bottom: 5px;
+}
+
+.board-univ-info a {
+	font-size: 16px;
 }
 
 .l-shape {
