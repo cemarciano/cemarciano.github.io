@@ -8,32 +8,26 @@
             "github": "Mon Github",
 			"cv": "CV en PDF"
 		},
-        "my-experiences": {
-            "title": "Expériences Académiques",
+		"my-experiences": {
+            "title": "Expériences de Recherche",
 			"supervisor": "Superviseur",
-            "ta-graphs": {
-				"title": "Assistant d'enseignement en Théorie des Graphes",
-				"text": "En plus d’avoir la possibilité d’apporter une assistance en personne et à distance, j’ai orienté les étudiants sur la manière de réaliser leurs travaux pratiques. J'ai aussi noté leurs travaux.",
-				"funding": "Participation Volontaire"
+            "inria": {
+				"title": "Inria &mdash; Sophia Antipolis",
+				"position": "Stagiaire",
+				"city": "Biot, France",
+				"text": "J'ai appliqué l'apprentissage automatique au prefetching, en utilisant des réseaux de neurones récurrents pour apprendre les modèles d'accès à la mémoire et récupérer les données avant qu'elles soient demandées.",
+				"funding": "Financé par Inria"
 			},
-			"research-graphs": {
-				"title": "Recherche en<br/>Algorithmes et Graphes",
-				"text": "J'ai participé à deux projets théoriques distincts impliquant des algorithmes de graphes, l'optimisation combinatoire et des systèmes distribués, qui ont abouti à un article scientifique soumis en novembre 2018.",
-				"funding": "Participation Volontaire"
-			},
-			"research-big-data": {
-				"title": "Recherche en Big Data et Machine Learning",
-				"text": "Projet en collaboration avec l'expérience ATLAS (CERN, Suisse). Notre objectif est de mettre en oeuvre des algorithmes pour identifier des données similaires et réduire le cycle d'apprentissage des réseaux de neurones en fonctionnement chez ATLAS, tout en préservant les performances.",
+			"ufrj": {
+				"title": "Université Fédérale<br>de Rio de Janeiro",
+				"position": "Chercheur de Premier Cycle",
+				"city": "Rio, Brésil",
+				"text": "J'ai participé à un projet théorique sur les algorithmes de graphes, l'optimisation combinatoire et l'informatique musicale, pour aboutir à un article scientifique récompensé par un prix international.",
 				"funding": "Financé par la Bourse CNPq"
-			},
-			"ta-algorithms": {
-				"title": "Assistant d'enseignement en Algorithmes et Str. de Données",
-				"text": "J'ai eu le plaisir de donner des conférences, d'élaborer des exercices et de proposer des travaux pratiques, ainsi que d'aider et de connaître les particularités de chaque étudiant. C'était ma meilleure expérience à l'université.",
-				"funding": "Financé par une Bourse d’A.Ens."
 			}
 		},
 		"my-papers": {
-			"title": "Recherche",
+			"title": "Publications",
 			"view-text": "Voir le Texte",
 			"view-slides": "Voir les Diapos",
 			"status": {

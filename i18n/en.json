@@ -1,7 +1,7 @@
 [
 	{
 		"basic-info": {
-            "job": "Information and Computer Engineer",
+            "job": "Computer and Information Engineer",
 			"university": "Federal University of Rio de Janeiro \u2014 UFRJ \u2014 Brazil",
             "degree": "B.S. cum laude",
 			"gpa": "GPA: 8.8/10",
@@ -9,31 +9,25 @@
 			"cv": "CV in PDF"
 		},
         "my-experiences": {
-            "title": "Academic Experiences",
+            "title": "Research Experiences",
 			"supervisor": "Supervisor",
-            "ta-graphs": {
-				"title": "Teaching Assistant in<br/>Graph Theory",
-				"text": "Besides having had the opportunity to offer assistance in person as well as remotely, I oriented students on how to perform their practical assignments and graded their work.",
-				"funding": "Voluntary Participation"
+            "inria": {
+				"title": "Inria &mdash; Sophia Antipolis",
+				"position": "Intern",
+				"city": "Biot, France",
+				"text": "I've been applying machine learning for prefetching, using recurrent neural networks to learn memory access patterns and retrieve data before it is requested.",
+				"funding": "Funded by Inria"
 			},
-			"research-graphs": {
-				"title": "Undergraduate Research in Algorithms and Graphs",
-				"text": "I've been part of two distinct theoretical projects involving graph algorithms, combinatorial optimization and distributed systems, resulting in a scientific paper submitted in November 2018.",
-				"funding": "Voluntary Participation"
-			},
-			"research-big-data": {
-				"title": "Undergraduate Research in Big Data and Mach. Learning",
-				"text": "Project in collaboration with the ATLAS Experiment (CERN, Switzerland). Our goal is to implement algorithms to identify similar data and diminish the training cycle of the neural networks in operation at ATLAS while preserving performance.",
+			"ufrj": {
+				"title": "Federal University<br>of Rio de Janeiro",
+				"position": "Undergraduate Researcher",
+				"city": "Rio, Brazil",
+				"text": "I've been part of a theoretical project involving graph algorithms, combinatorial optimization and computer music, resulting in a scientific paper which received an international award.",
 				"funding": "Funded by CNPq Scholarship"
-			},
-			"ta-algorithms": {
-				"title": "Teaching Assistant in Algorithms and Data Struct.",
-				"text": "I had the pleasure to deliver lectures, elaborate exercises and propose practical assignments, as well as assisting and getting to know the individualities of each student. It was my best experience in college.",
-				"funding": "Funded by TA Scholarship"
 			}
 		},
 		"my-papers": {
-			"title": "Research",
+			"title": "Publications",
 			"view-text": "View Text",
 			"view-slides": "View Slides",
 			"status": {

@@ -13,6 +13,11 @@
 	src: url('fonts/icomoon.ttf');
 }
 
+@font-face {
+    font-family: "DkNouveauCrayon";
+    src: url('fonts/DkNouveauCrayon.otf');
+}
+
 body {
 	background: #f2f2f2 url('images/bg-tile.png');
 }
@@ -202,6 +207,48 @@ body {
 	font-size: 22px;
 	position: relative;
 	top: 4px;
+}
+
+/* My TAs section */
+
+#my-tas {
+	display: flex;
+	margin-top: -18px;
+	margin-bottom: 46%;
+}
+
+#board-wrapper {
+
+}
+
+#board-img {
+	position: absolute;
+	margin-left: 1.2vw;
+	margin-top: 1%;
+	opacity: 0.6;
+	border-radius: 20px;
+}
+
+#tas-text {
+	position: absolute;
+	font-family: "DkNouveauCrayon" !important;
+	color: #6f6f6f;
+	margin-top: 100px;
+	margin-left: 140px;
+}
+
+.board-univ-title {
+	display: block;
+	font-size: 26px;
+}
+
+.board-univ-courses {
+	display: block;
+	font-size: 24px;
+}
+
+.l-shape {
+	width: 30px;
 }
 
 

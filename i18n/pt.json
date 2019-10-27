@@ -9,7 +9,7 @@
 			"cv": "CV em PDF"
 		},
         "my-experiences": {
-            "title": "Experiências Acadêmicas",
+            "title": "Experiências em Pesquisa",
 			"supervisor": "Orientador",
             "ta-graphs": {
 				"title": "Monitor de Teoria dos Grafos",
@@ -30,6 +30,24 @@
 				"title": "Monitor de Algoritmos e Estruturas de Dados",
 				"text": "Tive o prazer de dar aulas, elaborar exercícios e propor trabalhos, além de auxiliar e conhecer as individualidades de cada aluno. Foi minha melhor experiência na faculdade.",
 				"funding": "Financiado por Bolsa de Monitoria"
+			}
+		},
+		"my-experiences": {
+            "title": "Experiências de Pesquisa",
+			"supervisor": "Orientador",
+            "inria": {
+				"title": "Inria &mdash; Sophia Antipolis",
+				"position": "Estagiário",
+				"city": "Biot, França",
+				"text": "Tenho aplicado aprendizado de máquina a prefetching, usando redes neurais recorrentes para aprender padrões de acesso à memória e recuperar dados com antecedência.",
+				"funding": "Financiado por Inria"
+			},
+			"ufrj": {
+				"title": "Universidade Federal<br>do Rio de Janeiro",
+				"position": "Iniciação Científica",
+				"city": "Rio, Brasil",
+				"text": "Fui parte de um projeto teórico involvendo algoritmos em grafos, otimização combinatório e música computacional, resultando em um artigo científico que recebeu um prêmio internacional.",
+				"funding": "Financiado pela Bolsa CNPq"
 			}
 		},
 		"my-papers": {
