@@ -214,7 +214,8 @@ body {
 #my-tas {
 	display: flex;
 	margin-top: -18px;
-	margin-bottom: 46%;
+	margin-bottom: 44%;
+	transform: scale(0.95, 0.95);
 }
 
 
@@ -230,7 +231,7 @@ body {
 	position: absolute;
 	font-family: "DkNouveauCrayon" !important;
 	color: #6f6f6f;
-	margin-top: 100px;
+	margin-top: 88px;
 	margin-left: 140px;
 }
 
