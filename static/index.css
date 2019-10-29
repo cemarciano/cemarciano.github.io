@@ -122,6 +122,10 @@ body {
 	white-space: nowrap;
 }
 
+.position-name {
+	color: #4c8fff !important;
+}
+
 .supervisor {
 	margin-top: -11px !important;
 }
