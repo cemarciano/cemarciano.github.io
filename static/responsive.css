@@ -31,6 +31,10 @@
 		font-size: 13pt;
 	}
 
+	#my-papers {
+		height: 100%;
+	}
+
 	#my-courses {
 		height: 330px;
 	}
