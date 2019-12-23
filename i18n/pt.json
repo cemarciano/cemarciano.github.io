@@ -8,30 +8,6 @@
             "github": "Meu Github",
 			"cv": "CV em PDF"
 		},
-        "my-experiences": {
-            "title": "Experiências em Pesquisa",
-			"supervisor": "Orientador",
-            "ta-graphs": {
-				"title": "Monitor de Teoria dos Grafos",
-				"text": "Além de ter tido a oportunidade de oferecer monitorias presenciais e à distância, disponibilizei orientação sobre como realizar os trabalhos práticos e atribuí notas a estas avaliações.",
-				"funding": "Participação Voluntária"
-			},
-			"research-graphs": {
-				"title": "Iniciação Científica em Algoritmos e Grafos",
-				"text": "Realizei dois projetos teóricos distintos envolvendo algoritmos em grafos, otimização combinatória e sistemas distribuídos, resultando em um artigo científico ao final de 2018.",
-				"funding": "Participação Voluntária"
-			},
-			"research-big-data": {
-				"title": "Iniciação Científica em Big Data e Machine Learning",
-				"text": "Projeto em colaboração com o experimento ATLAS (CERN, Suíça). Objetivamos implementar algoritmos para tratar registros semelhantes e diminuir o ciclo de treinamento do ensemble de redes neurais operante no experimento.",
-				"funding": "Financiado por Bolsa CNPq"
-			},
-			"ta-algorithms": {
-				"title": "Monitor de Algoritmos e Estruturas de Dados",
-				"text": "Tive o prazer de dar aulas, elaborar exercícios e propor trabalhos, além de auxiliar e conhecer as individualidades de cada aluno. Foi minha melhor experiência na faculdade.",
-				"funding": "Financiado por Bolsa de Monitoria"
-			}
-		},
 		"my-experiences": {
             "title": "Experiências de Pesquisa",
 			"supervisor": "Orientador",
@@ -39,7 +15,7 @@
 				"title": "Inria &mdash; Sophia Antipolis",
 				"position": "Estagiário",
 				"city": "Biot, França",
-				"text": "Tenho aplicado aprendizado de máquina a prefetching, usando redes neurais recorrentes para aprender padrões de acesso à memória e recuperar dados com antecedência.",
+				"text": "Apliquei aprendizado de máquina ao problema de prefetching, usando redes neurais recorrentes para aprender padrões de acesso à memória e recuperar dados com antecedência. Nossos resultados serão publicados em 2020.",
 				"funding": "Financiado por Inria"
 			},
 			"ufrj": {
