@@ -35,6 +35,11 @@
 				"accepted": "accepté",
 				"published": "publié"
 			},
+			"sections": {
+				"peer-reviewed": "Évalué par les Pairs",
+				"monographs": "Monographies",
+				"tech-reports": "Rapports Techniques"
+			},
 			"ctic-info": "Top 10 des meilleurs travaux de recherche de 1er cycle du CTIC 2019 (concours brésilien)",
 			"view-certificate": "Voir le Certificat",
 			"tcc-info": "Projet de fin d'études de premier cycle."
@@ -106,7 +111,7 @@
             "title": "Réalisations",
             "first": {
                 "title": "1re Place Génie Informatique UFRJ",
-                "description": "Classé 1er dans l'examen d'entrée avec un total de 4035,60 points à travers l'ENEM 2014."
+                "description": "Classé 1er dans l'examen d'entrée à l'Université Fédérale de Rio de Janeiro avec un total de 4035,60 points à travers l'ENEM 2014."
             },
             "second": {
                 "title": "1000 Points dans la Section d'Écriture de l'ENEM 2014",

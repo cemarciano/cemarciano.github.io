@@ -485,6 +485,17 @@ body {
 	margin-right: -10px;
 }
 
+.non-clickable-btn {
+	cursor: auto;
+	left: -2%;
+	font-size: 10pt;
+	background-color: #55acee;
+	color: white;
+	padding: 5px 11px;
+	margin-top: 10px;
+	margin-bottom: 25px;
+}
+
 .btn:hover {
 	background-color: #55acee;
 	color: #fff;

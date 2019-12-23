@@ -35,6 +35,11 @@
 				"accepted": "accepted",
 				"published": "published"
 			},
+			"sections": {
+				"peer-reviewed": "Peer-reviewed",
+				"monographs": "Monographs",
+				"tech-reports": "Tech Reports"
+			},
 			"ctic-info": "Top 10 Best undergraduate research paper in CTIC 2019 (Brazilian nationwide competition)",
 			"view-certificate": "View Certificate",
 			"tcc-info": "Final-year undergraduate project."
@@ -106,7 +111,7 @@
             "title": "Achievements",
             "first": {
                 "title": "1st Place Computer Engineering UFRJ",
-                "description": "Ranked 1st in the entrance exam with a total of 4035.60 points through ENEM 2014."
+                "description": "Ranked 1st in the entrance exam for the Federal University of Rio de Janeiro with a total of 4035.60 points through ENEM 2014."
             },
             "second": {
                 "title": "1000 Points in Writing section of ENEM 2014",

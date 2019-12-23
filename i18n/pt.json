@@ -68,6 +68,11 @@
 				"accepted": "aceito",
 				"published": "publicado"
 			},
+			"sections": {
+				"peer-reviewed": "Revisado por Pares",
+				"monographs": "Monografias",
+				"tech-reports": "Relatórios Técnicos"
+			},
 			"ctic-info": "Top 10 Melhor artigo de iniciação científica no CTIC 2019 (concurso nacional brasileiro)",
 			"view-certificate": "Ver Certificado",
 			"tcc-info": "Projeto final de graduação."
@@ -130,7 +135,7 @@
             "title": "Conquistas",
             "first": {
                 "title": "1\u00ba Lugar Engenharia de Computação UFRJ",
-                "description": "Classificado em 1\u00ba lugar no vestibular do curso com um total de 4035,60 pontos pelo ENEM 2014."
+                "description": "Classificado em 1\u00ba lugar no vestibular da Universidade Federal do Rio de Janeiro com um total de 4035,60 pontos pelo ENEM 2014."
             },
             "second": {
                 "title": "Nota 1000 na Redação do ENEM 2014",
