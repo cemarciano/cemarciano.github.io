@@ -1,10 +1,10 @@
 [
 	{
 		"basic-info": {
-            "job": "Engenheiro de Computação e Informação",
-			"university": "Universidade Federal do Rio de Janeiro \u2014 UFRJ \u2014 Brasil",
-            "degree": "Bacharel cum laude",
-			"gpa": "CR final: 8,8/10",
+            "job": "Estudante de Ph.D em Ciência da Computação",
+			"university": "Universidade de Toronto \u2014 UofT \u2014 Canadá",
+            "degree": "Estudante de Ph.D",
+			"gpa": "Orientador: Peter Marbach",
             "github": "Meu Github",
 			"cv": "CV em PDF"
 		},
@@ -139,9 +139,16 @@
             "dec": "Dez",
             "today": "Hoje"
         },
+		"seasons": {
+			"fall": "Outono",
+			"winter": "Inverno",
+			"spring": "Primavera",
+			"summer": "Verão"
+		},
 		"assets": {
 			"and": "e",
-			"to": "a"
+			"to": "a",
+			"ongoing": "atual"
 		}
 	}
 ]

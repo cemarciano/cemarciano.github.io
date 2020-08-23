@@ -1,10 +1,10 @@
 [
 	{
 		"basic-info": {
-            "job": "Ingénieur Informatique et de l'Information",
-			"university": "Université Fédérale de Rio de Janeiro \u2014 UFRJ \u2014 Brésil",
-            "degree": "Bac+5 (équivalent) cum laude",
-			"gpa": "GPA: 8,8/10",
+            "job": "Doctorant en Science Informatique",
+			"university": "University of Toronto \u2014 UofT \u2014 Canada",
+            "degree": "Doctorant",
+			"gpa": "Superviseur: Peter Marbach",
             "github": "Mon Github",
 			"cv": "CV en PDF"
 		},
@@ -139,9 +139,16 @@
             "dec": "Déc",
             "today": "Actuel"
         },
+		"seasons": {
+			"fall": "Automne",
+			"winter": "Hiver",
+			"spring": "Printemps",
+			"summer": "Été"
+		},
 		"assets": {
 			"and": "et",
-			"to": "à"
+			"to": "à",
+			"ongoing": "en cours"
 		}
 	}
 ]

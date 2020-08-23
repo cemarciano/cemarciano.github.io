@@ -1,10 +1,10 @@
 [
 	{
 		"basic-info": {
-            "job": "Computer and Information Engineer",
-			"university": "Federal University of Rio de Janeiro \u2014 UFRJ \u2014 Brazil",
-            "degree": "Bachelor's cum laude",
-			"gpa": "GPA: 8.8/10",
+            "job": "Computer Science Ph.D Student",
+			"university": "University of Toronto \u2014 UofT \u2014 Canada",
+            "degree": "Ph.D Student",
+			"gpa": "Supervisor: Peter Marbach",
             "github": "My Github",
 			"cv": "CV in PDF"
 		},
@@ -139,9 +139,16 @@
             "dec": "Dec",
             "today": "Today"
         },
+		"seasons": {
+			"fall": "Fall",
+			"winter": "Winter",
+			"spring": "Spring",
+			"summer": "Summer"
+		},
 		"assets": {
 			"and": "and",
-			"to": "to"
+			"to": "to",
+			"ongoing": "ongoing"
 		}
 	}
 ]
