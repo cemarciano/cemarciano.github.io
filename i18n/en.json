@@ -4,7 +4,7 @@
             "job": "Computer Science Ph.D Student",
 			"university": "University of Toronto \u2014 UofT \u2014 Canada",
             "degree": "Ph.D Student",
-			"gpa": "Supervisor: Peter Marbach",
+			"supervisor": "Supervisor: Peter Marbach",
             "github": "My Github",
 			"cv": "CV in PDF"
 		},
@@ -59,14 +59,17 @@
 				"fluent": "(fluent)",
 				"advanced": "(advanced)",
 				"intermediate": "(intermediate)",
-				"basic": "(basic)"
+				"basic": "(basic)",
+				"learning": "(learning)"
 			},
             "natural": {
 				"title": "Natural",
 				"portuguese": "Portuguese",
 	            "english": "English",
 	            "french": "French",
-	            "spanish": "Spanish"
+	            "spanish": "Spanish",
+				"german": "German",
+				"japanese": "Japanese"
 			},
 			"programming": "Programming"
         },

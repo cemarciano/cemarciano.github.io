@@ -4,7 +4,7 @@
             "job": "Estudante de Ph.D em Ciência da Computação",
 			"university": "Universidade de Toronto \u2014 UofT \u2014 Canadá",
             "degree": "Estudante de Ph.D",
-			"gpa": "Orientador: Peter Marbach",
+			"supervisor": "Orientador: Peter Marbach",
             "github": "Meu Github",
 			"cv": "CV em PDF"
 		},
@@ -59,14 +59,17 @@
 				"fluent": "(fluente)",
 				"advanced": "(avançado)",
 				"intermediate": "(intermediário)",
-				"basic": "(básico)"
+				"basic": "(básico)",
+				"learning": "(aprendendo)"
 			},
             "natural": {
 				"title": "Naturais",
 				"portuguese": "Portugês",
 	            "english": "Inglês",
 	            "french": "Francês",
-	            "spanish": "Espanhol"
+	            "spanish": "Espanhol",
+				"german": "Alemão",
+				"japanese": "Japonês"
 			},
             "programming": "De Programação"
         },

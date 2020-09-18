@@ -4,7 +4,7 @@
             "job": "Doctorant en Science Informatique",
 			"university": "University of Toronto \u2014 UofT \u2014 Canada",
             "degree": "Doctorant",
-			"gpa": "Superviseur: Peter Marbach",
+			"supervisor": "Superviseur: Peter Marbach",
             "github": "Mon Github",
 			"cv": "CV en PDF"
 		},
@@ -59,14 +59,17 @@
 				"fluent": "(couramment)",
 				"advanced": "(avancé)",
 				"intermediate": "(intermédiaire)",
-				"basic": "(élémentaire)"
+				"basic": "(élémentaire)",
+				"learning": "(apprentissage)"
 			},
             "natural": {
 				"title": "Naturel",
 				"portuguese": "Portugais",
 	            "english": "Anglais",
 	            "french": "Français",
-	            "spanish": "Espanol"
+	            "spanish": "Espanol",
+				"german": "Allemand",
+				"japanese": "Japonais"
 			},
             "programming": "De Programmation"
         },
