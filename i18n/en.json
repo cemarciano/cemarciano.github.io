@@ -1,10 +1,10 @@
 [
 	{
 		"basic-info": {
-            "job": "Computer Science Ph.D Student",
-			"university": "University of Toronto \u2014 UofT \u2014 Canada",
-            "degree": "Ph.D Student",
-			"supervisor": "Supervisor: Peter Marbach",
+            "job": "Ph.D. Student in Computer Science",
+			"university": "University of Toronto \u2014 U of T \u2014 Canada",
+            "degree": "Ph.D. Student",
+			"supervisor": "Advisor: Peter Marbach",
             "github": "My Github",
 			"cv": "CV in PDF"
 		},
@@ -46,7 +46,7 @@
 		},
 		"my-tas":{
 			"title": "Teaching Assistantships",
-			"professor": "Professor",
+			"professor": "Instructor",
 			"ufrj": {
 				"title": "Federal University of Rio de Janeiro",
 				"eel470": "Algorithms and Data Structures",
