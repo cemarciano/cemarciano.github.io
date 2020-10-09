@@ -6,7 +6,8 @@
 	}
 
 	.wall-of-text h3 {
-		font-size: 12px;
+		font-size: 7px;
+		line-height: 12px;
 	}
 
 	.horizontal-item h1 {
