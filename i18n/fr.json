@@ -8,9 +8,18 @@
             "github": "Mon Github",
 			"cv": "CV en PDF"
 		},
+		"wall-of-text": "Ça va! Je suis un doctorant intéressé par la <span class=\"underline\">science des réseaux</span> qui s'efforce de créer de meilleures expériences pour les <span class=\"underline\">communautés</span> en ligne. En particulier, je me spécialise dans l'étude de la diffusion de <span class=\"underline\">«fake news»</span>, en recherchant de nouvelles façons de freiner son avancement. J'espère avoir un impact <span class=\"underline\">pratique</span> sur le milieu universitaire et sur l'industrie, en contribuant à une société plus saine.",
 		"my-experiences": {
             "title": "Expériences de Recherche",
 			"supervisor": "Superviseur",
+			"advisor": "Superviseur",
+			"uoft": {
+				"title": "University of Toronto",
+				"position": "Doctorant",
+				"city": "Toronto, Canada",
+				"text": "Mon domaine d'intérêt principal comprends la science des réseaux appliquée aux réseaux sociaux. Ma recherche actuelle est basée sur la diffusion de la désinformation (\"fake news\") dans les réseaux sociaux.",
+				"funding": "Financé par DCS-UofT"
+			},
             "inria": {
 				"title": "Inria &mdash; Sophia Antipolis",
 				"position": "Stagiaire",

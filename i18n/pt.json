@@ -8,9 +8,18 @@
             "github": "Meu Github",
 			"cv": "CV em PDF"
 		},
+		"wall-of-text": "Olá! Sou um estudante de doutorado interessado em <span class=\"underline\">ciência das redes</span> cujo objetivo é criar experiências melhores para <span class=\"underline\">comunidades</span> online. Em particular, minha especialidade é o estudo da disseminação de <span class=\"underline\">notícias falsas</span>, buscando novos caminhos para barrar seu avanço. Meu objetivo é ter um impacto <span class=\"underline\">prático</span> na academia e na indústria, contribuindo assim para uma sociedade mais saudável.",
 		"my-experiences": {
             "title": "Experiências de Pesquisa",
 			"supervisor": "Orientador",
+			"advisor": "Orientador",
+			"uoft": {
+				"title": "Universidade de Toronto",
+				"position": "Estudante de Doutorado",
+				"city": "Toronto, Canadá",
+				"text": "Minha área de interesse principal é ciência das redes, com aplicaçõse em redes sociais. Minha pesquisa atual tem como base a disseminação de notícias falsas em redes sociais.",
+				"funding": "Financiado por DCS-UofT"
+			},
             "inria": {
 				"title": "Inria &mdash; Sophia Antipolis",
 				"position": "Estagiário",

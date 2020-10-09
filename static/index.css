@@ -49,10 +49,18 @@ body {
 	margin-top: -15px;
 }
 
+#basic-info h4 {
+	margin-top: -4px;
+}
+
+#basic-info a {
+	margin-top: 1px;
+}
+
 #basic-info > div {
 	flex: 0 0 65%;
 	position: relative;
-	top: 34px;
+	top: 25px;
 }
 
 #basic-info img {
@@ -74,7 +82,7 @@ body {
 }
 
 .translation {
-	margin-top: 7px;
+	margin-top: 12px;
 	user-select: none;
 }
 
@@ -103,12 +111,18 @@ body {
 
 
 .wall-of-text {
-	margin-left: 30px;
+	margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 70px;
 	margin-bottom: 80px;
-	line-height: 25px;
+	line-height: 33px;
 	text-indent: 40px;
 	text-align: justify;
     text-justify: inter-word;
+}
+
+.underline {
+    border-bottom: 2px solid #888;
 }
 
 /* My Experiences Section */
