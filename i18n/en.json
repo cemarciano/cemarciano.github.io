@@ -8,7 +8,7 @@
             "github": "My Github",
 			"cv": "CV in PDF"
 		},
-		"wall-of-text": "Hey! I’m a PhD student interested in <span class=\"underline\">network science</span> who strives to create better experiences for online social <span class=\"underline\">communities</span>. Particularly, I specialize in studying the dissemination of <span class=\"underline\">countermedia</span> (“fake news”) content, seeking new ways to hinder its advancement. My goal is to have a <span class=\"underline\">practical</span> impact on both academia and the industry, ultimately contributing to a healthier society.",
+		"wall-of-text": "Hey! I’m a PhD student interested in <span class=\"underline\">network science</span> who strives to create better experiences for online social <span class=\"underline\">communities</span>. Particularly, I enjoy studying the dissemination of <span class=\"underline\">countermedia</span> (“fake news”) content, seeking new ways to hinder its advancement. My goal is to have a <span class=\"underline\">practical</span> impact on both academia and the industry, ultimately contributing to a healthier society.",
         "my-experiences": {
             "title": "Research Experiences",
 			"supervisor": "Supervisor",
