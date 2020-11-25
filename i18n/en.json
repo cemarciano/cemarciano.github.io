@@ -41,6 +41,7 @@
 			"view-slides": "View Slides",
 			"status": {
 				"submitted": "submitted",
+				"reviewed": "reviewed",
 				"accepted": "accepted",
 				"published": "published"
 			},

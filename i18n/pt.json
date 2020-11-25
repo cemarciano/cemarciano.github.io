@@ -50,6 +50,7 @@
 			"view-slides": "Ver Slides",
 			"status": {
 				"submitted": "submetido",
+				"reviewed": "revisado",
 				"accepted": "aceito",
 				"published": "publicado"
 			},

@@ -486,6 +486,23 @@ body {
 	border: 1.4px #55acee solid;
 }
 
+.btn:hover {
+	background-color: #55acee;
+	color: #fff;
+}
+
+.disabled-btn {
+    user-select: none;
+    cursor: auto !important;
+    color: #bfbfbf !important;
+    border: 1.4px #d1d1d1 solid !important;
+}
+
+.disabled-btn:hover {
+	background-color: white !important;
+	color: #bfbfbf !important;
+}
+
 .small-btn {
 	padding: 4.5px 6px !important;
 	font-size: 12.5px !important;
@@ -510,10 +527,6 @@ body {
 	margin-bottom: 25px;
 }
 
-.btn:hover {
-	background-color: #55acee;
-	color: #fff;
-}
 
 .btn-wrapper {
 	margin: 0 auto;

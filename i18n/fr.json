@@ -41,6 +41,7 @@
 			"view-slides": "Voir les Diapos",
 			"status": {
 				"submitted": "soumis",
+				"reviewed": "révisé",
 				"accepted": "accepté",
 				"published": "publié"
 			},
