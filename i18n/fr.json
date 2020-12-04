@@ -162,6 +162,11 @@
 			"and": "et",
 			"to": "à",
 			"ongoing": "en cours"
+		},
+		"flag-titles": {
+			"en": "Anglais",
+			"pt": "Portugais",
+			"fr": "Français"
 		}
 	}
 ]

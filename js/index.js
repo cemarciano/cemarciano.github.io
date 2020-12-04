@@ -52,6 +52,10 @@ function translate(lang){
         // Applies translation:
         $(this).html(obj.split('\n').join('<br />'));
 	});
+	// Applies titles to flags:
+	$(".flag").each(function(){
+		$(this).attr("title", translations[lang]["flag-titles"][$(this).attr("id")]);
+	});
 }
 
 
