@@ -39,6 +39,7 @@
 			"title": "Publications",
 			"view-text": "Voir le Texte",
 			"view-slides": "Voir les Diapos",
+			"doi-link": "Lien DOI",
 			"status": {
 				"submitted": "soumis",
 				"reviewed": "révisé",
