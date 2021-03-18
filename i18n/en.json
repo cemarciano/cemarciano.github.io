@@ -24,7 +24,7 @@
 				"title": "Inria &mdash; Sophia Antipolis",
 				"position": "Intern",
 				"city": "Biot, France",
-				"text": "I've applied machine learning to the problem of prefetching, using recurrent neural networks to learn memory access patterns and retrieve data before it is requested. Our results will be published in 2020.",
+				"text": "I've applied machine learning to the problem of prefetching, using recurrent neural networks to learn memory access patterns and retrieve data before it is requested.",
 				"funding": "Funded by Inria"
 			},
 			"ufrj": {
