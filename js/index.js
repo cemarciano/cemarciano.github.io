@@ -5,8 +5,8 @@ var defaultLanguage = "en";
 $(document).ready(function(){
 
 	// Puts e-mail content where it belongs (to avoid bots):
-	var username = "cemarciano";
-	var provider = "cs.toronto.edu";
+	var username = "carlos.marciano";
+	var provider = "mail.utoronto.ca";
 	$(".email").html(username + "@" + provider);
 
 	// Calculates my age and adds it to my story:
