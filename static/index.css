@@ -233,7 +233,7 @@ body {
 #my-tas {
 	display: flex;
 	margin-top: -18px;
-	margin-bottom: 44%;
+	margin-bottom: 50%;
 	transform: scale(0.95, 0.95);
 }
 
@@ -250,12 +250,20 @@ body {
 	position: absolute;
 	font-family: "DkNouveauCrayon" !important;
 	color: #6f6f6f;
-	margin-top: 88px;
+	margin-top: 60px;
 	margin-left: 140px;
 }
 
 .board-univ-title {
 	display: block;
+	font-size: 26px;
+	margin-top: 28px;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+}
+
+.board-univ-body {
+    display: block;
 	font-size: 26px;
 	margin-top: 5px;
 }
@@ -270,7 +278,7 @@ body {
 
 .board-univ-date {
 	color: #487fda !important;
-	margin-left: 20px;
+	margin-left: 16px;
 	font-size: 20px !important;
 }
 

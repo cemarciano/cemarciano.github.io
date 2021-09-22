@@ -58,6 +58,10 @@
 		"my-tas":{
 			"title": "Teaching Assistantships",
 			"professor": "Instructor",
+			"uoft": {
+				"title": "University of Toronto",
+				"csc309": "Programming on the Web"
+			},
 			"ufrj": {
 				"title": "Federal University of Rio de Janeiro",
 				"eel470": "Algorithms and Data Structures",

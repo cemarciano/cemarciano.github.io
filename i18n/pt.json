@@ -38,6 +38,10 @@
 		"my-tas":{
 			"title": "Monitorias Acadêmicas",
 			"professor": "Professor",
+			"uoft": {
+				"title": "Universidade de Toronto",
+				"csc309": "Programação na Web"
+			},
 			"ufrj": {
 				"title": "Universidade Federal do Rio de Janeiro",
 				"eel470": "Algoritmos e Estruturas de Dados",
