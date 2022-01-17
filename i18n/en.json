@@ -8,7 +8,7 @@
             "github": "My Github",
 			"cv": "CV in PDF"
 		},
-		"wall-of-text": "Hey! I’m a PhD student interested in <span class=\"underline\">network science</span> who strives to create better experiences for online social <span class=\"underline\">communities</span>. Particularly, I enjoy studying the dissemination of <span class=\"underline\">countermedia</span> (“fake news”) content, seeking new ways to hinder its advancement. My goal is to have a <span class=\"underline\">practical</span> impact on both academia and the industry, ultimately contributing to a healthier society.",
+		"wall-of-text": "Hey! :) I’m a PhD student interested in how users interact and share content in <span class=\"underline\">online social networks</span>. Currently, I employ techniques from both <span class=\"underline\">computer science</span> and <span class=\"underline\">social sciences</span> to study the influence of social media algorithms in today's world. Ultimately, my goal is to have a <span class=\"underline\">practical impact</span> on both academia and the industry, eventually contributing to a healthier society.",
         "my-experiences": {
             "title": "Research Experiences",
 			"supervisor": "Supervisor",
@@ -17,7 +17,7 @@
 				"title": "University of Toronto",
 				"position": "Ph.D. Student",
 				"city": "Toronto, Canada",
-				"text": "My main interest area is network science applied to social networks. My current research is based on the dissemination of countermedia (\"fake news\") in social networks.",
+				"text": "My main interest area is network science applied to social networks. I analyze precise mathematical models to study the influence of social media algorithms in contemporary society.",
 				"funding": "Funded by DCS-UofT"
 			},
             "inria": {
@@ -107,7 +107,7 @@
 			}
 		},
         "my-courses": {
-            "title": "Relevant Courses",
+            "title": "Undergraduate Courses",
             "core-courses": {
 				"title": "Core Courses",
 				"course1": "Algorithms and Data Structures",
@@ -132,9 +132,9 @@
                 "description": "Ranked 1st in the entrance exam for the Federal University of Rio de Janeiro with a total of 4035.60 points through ENEM 2014."
             },
             "second": {
-                "title": "1000 Points in Writing section of ENEM 2014",
-                "description": "Writer of one of the 250 essays, out of a total of 6 million, who achieved 1000 points in ENEM 2014 (top 0.004%).",
-                "button": "News Story"
+                "title": "Best Student Paper Award INOC 2019",
+                "description": "Unique award worth &euro;500 granted to the best paper/presentation at the conference by a student.",
+                "button": "View Award"
             },
             "third": {
                 "title": "Highest GPA in Comput. Engineering",

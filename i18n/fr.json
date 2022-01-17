@@ -8,7 +8,7 @@
             "github": "Mon Github",
 			"cv": "CV en PDF"
 		},
-		"wall-of-text": "Ça va! Je suis un doctorant intéressé par la <span class=\"underline\">science des réseaux</span> qui s'efforce de créer de meilleures expériences pour les <span class=\"underline\">communautés</span> en ligne. En particulier, je me spécialise dans l'étude de la diffusion de <span class=\"underline\">«fake news»</span>, en recherchant de nouvelles façons de freiner son avancement. J'espère avoir un impact <span class=\"underline\">pratique</span> sur le milieu universitaire et sur l'industrie, en contribuant à une société plus saine.",
+		"wall-of-text": "Ça va! :) Je suis un doctorant qui étudie comment les utilisateurs interagissent et partagent du contenu sur les <span class=\"underline\">réseaux sociaux en ligne</span>. Actuellement, j'utilise des techniques de <span class=\"underline\">l'informatique</span> et des <span class=\"underline\">sciences sociales</span> pour étudier l'influence des algorithmes des réseaux sociaux dans le monde d'aujourd'hui. Finalement, j'espère avoir un <span class=\"underline\">impact pratique</span> sur le milieu universitaire et sur l'industrie, en contribuant à une société plus saine.",
 		"my-experiences": {
             "title": "Expériences de Recherche",
 			"supervisor": "Superviseur",
@@ -17,7 +17,7 @@
 				"title": "University of Toronto",
 				"position": "Doctorant",
 				"city": "Toronto, Canada",
-				"text": "Mon domaine d'intérêt principal comprends la science des réseaux appliquée aux réseaux sociaux. Ma recherche actuelle est basée sur la diffusion de la désinformation (\"fake news\") dans les réseaux sociaux.",
+				"text": "Mon domaine d'intérêt principal comprends la science des réseaux appliquée aux réseaux sociaux. J'analyse des modèles mathématiques précis pour étudier l'influence des algorithmes des médias sociaux sur la société contemporaine.",
 				"funding": "Financé par DCS-UofT"
 			},
             "inria": {
@@ -107,7 +107,7 @@
 			}
 		},
         "my-courses": {
-            "title": "Cours Pertinents",
+            "title": "Cours de 1er Cycle",
             "core-courses": {
 				"title": "Cours de base",
 				"course1": "Algorithmes et Struct. de Données",
@@ -132,9 +132,9 @@
                 "description": "Classé 1er dans l'examen d'entrée à l'Université Fédérale de Rio de Janeiro avec un total de 4035,60 points à travers l'ENEM 2014."
             },
             "second": {
-                "title": "1000 Points dans la Section d'Écriture de l'ENEM 2014",
+                "title": "Best Student Paper INOC 2019",
                 "description": "Écrivain de l'un des 250 essais, sur un total de 6 millions, ayant obtenu 1000 points dans l'ENEM 2014 (top 0,004%).",
-                "button": "Reportage"
+                "button": "Voir le prix"
             },
             "third": {
                 "title": "GPA le plus élevé en génie informatique",
