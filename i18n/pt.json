@@ -1,21 +1,21 @@
 [
 	{
 		"basic-info": {
-            "job": "Estudante de Ph.D. em Ciência da Computação",
+            "job": "Mestre em Ciência da Computação",
 			"university": "Universidade de Toronto \u2014 Ontario, Canadá",
-            "degree": "Estudante de Ph.D.",
+            "degree": "Estudante de Mestrado",
 			"supervisor": "Orientador: Peter Marbach",
             "github": "Meu Github",
 			"cv": "CV em PDF"
 		},
-		"wall-of-text": "Olá! :) Sou um estudante de doutorado interessado em como usuários interagem e compartilham conteúdo em <span class=\"underline\">redes sociais online</span>. No momento, utilizo técnicas de <span class=\"underline\">ciência da computação</span> e <span class=\"underline\">ciências sociais</span> para estudar a influência dos algoritmos das redes sociais no mundo moderno. No fim, meu objetivo é ter um <span class=\"underline\">impacto prático</span> na academia e na indústria, contribuindo assim para uma sociedade mais saudável.",
+		"wall-of-text": "Olá! :) Sou um cientista da computação interessado em dar o próximo passo na minha carreira. Eu acabei de me formar na Universidade de Toronto, e agora quero construir aplicações em larga escala que tragam benefícios reais para usuários ao redor do mundo. <span class=\"underline\">Este é o meu portfolio de pesquisa &mdash; pra indústria, favor ver meu CV!</span>",
 		"my-experiences": {
             "title": "Experiências de Pesquisa",
 			"supervisor": "Orientador",
 			"advisor": "Orientador",
 			"uoft": {
 				"title": "Universidade de Toronto",
-				"position": "Estudante de Doutorado",
+				"position": "Estudante de Mestrado",
 				"city": "Toronto, Canadá",
 				"text": "Minha área de interesse principal é ciência das redes, com aplicaçõse em redes sociais. Minha pesquisa analisa modelos matemáticos precisos para estudar a influência dos algoritmos na sociedade contemporânea.",
 				"funding": "Financiado por DCS-UofT"
@@ -23,7 +23,7 @@
             "inria": {
 				"title": "Inria &mdash; Sophia Antipolis",
 				"position": "Estagiário",
-				"city": "Biot, França",
+				"city": "Nice, França",
 				"text": "Apliquei aprendizado de máquina ao problema de prefetching, usando redes neurais recorrentes para aprender padrões de acesso à memória e recuperar dados com antecedência.",
 				"funding": "Financiado por Inria"
 			},

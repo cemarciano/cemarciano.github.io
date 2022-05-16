@@ -1,21 +1,21 @@
 [
 	{
 		"basic-info": {
-            "job": "Ph.D. Student in Computer Science",
+            "job": "M.Sc. in Computer Science",
 			"university": "University of Toronto \u2014 Ontario, Canada",
-            "degree": "Ph.D. Student",
+            "degree": "MSc Student",
 			"supervisor": "Advisor: Peter Marbach",
             "github": "My Github",
 			"cv": "CV in PDF"
 		},
-		"wall-of-text": "Hey! :) I’m a PhD student interested in how users interact and share content in <span class=\"underline\">online social networks</span>. Currently, I employ techniques from both <span class=\"underline\">computer science</span> and <span class=\"underline\">social sciences</span> to study the influence of social media algorithms in today's world. Ultimately, my goal is to have a <span class=\"underline\">practical impact</span> on both academia and the industry, eventually contributing to a healthier society.",
+		"wall-of-text": "Hey! :) I’m a computer scientist looking to take the next step in my career. I've just graduated from the University of Toronto, and I now want to build meaningful applications that bring real benefit to users around the world. <span class=\"underline\">This is my research portfolio &mdash; for industry, please check my CV!</span>",
         "my-experiences": {
             "title": "Research Experiences",
 			"supervisor": "Supervisor",
 			"advisor": "Advisor",
 			"uoft": {
 				"title": "University of Toronto",
-				"position": "Ph.D. Student",
+				"position": "M.Sc. Student",
 				"city": "Toronto, Canada",
 				"text": "My main interest area is network science applied to social networks. I analyze precise mathematical models to study the influence of social media algorithms in contemporary society.",
 				"funding": "Funded by DCS-UofT"
@@ -23,7 +23,7 @@
             "inria": {
 				"title": "Inria &mdash; Sophia Antipolis",
 				"position": "Intern",
-				"city": "Biot, France",
+				"city": "Nice, France",
 				"text": "I've applied machine learning to the problem of prefetching, using recurrent neural networks to learn memory access patterns and retrieve data before it is requested.",
 				"funding": "Funded by Inria"
 			},

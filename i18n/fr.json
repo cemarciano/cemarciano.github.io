@@ -1,21 +1,21 @@
 [
 	{
 		"basic-info": {
-            "job": "Doctorant en Science Informatique",
+            "job": "Maîtrise en Science Informatique",
 			"university": "University of Toronto \u2014 Ontario, Canada",
-            "degree": "Doctorant",
+            "degree": "Maîtrise",
 			"supervisor": "Superviseur: Peter Marbach",
             "github": "Mon Github",
 			"cv": "CV en PDF"
 		},
-		"wall-of-text": "Ça va! :) Je suis un doctorant qui étudie comment les utilisateurs interagissent et partagent du contenu sur les <span class=\"underline\">réseaux sociaux en ligne</span>. Actuellement, j'utilise des techniques de <span class=\"underline\">l'informatique</span> et des <span class=\"underline\">sciences sociales</span> pour étudier l'influence des algorithmes des réseaux sociaux dans le monde d'aujourd'hui. Finalement, j'espère avoir un <span class=\"underline\">impact pratique</span> sur le milieu universitaire et sur l'industrie, en contribuant à une société plus saine.",
+		"wall-of-text": "Ça va! :) Je suis informaticien, et je cherche actuellement une opportunité d'emploi. Je viens d'obtenir mon diplôme à l'Université de Toronto, et je souhaite maintenant créer des applications à grande échelle qui apportent de réels avantages aux utilisateurs du monde entier. <span class=\"underline\">Ceci est mon portfolio de recherche &mdash; pour l'industrie, veuillez consulter mon CV!</span>",
 		"my-experiences": {
             "title": "Expériences de Recherche",
 			"supervisor": "Superviseur",
 			"advisor": "Superviseur",
 			"uoft": {
 				"title": "University of Toronto",
-				"position": "Doctorant",
+				"position": "Étudiante de Maîtrise",
 				"city": "Toronto, Canada",
 				"text": "Mon domaine d'intérêt principal comprends la science des réseaux appliquée aux réseaux sociaux. J'analyse des modèles mathématiques précis pour étudier l'influence des algorithmes des médias sociaux sur la société contemporaine.",
 				"funding": "Financé par DCS-UofT"
@@ -23,7 +23,7 @@
             "inria": {
 				"title": "Inria &mdash; Sophia Antipolis",
 				"position": "Stagiaire",
-				"city": "Biot, France",
+				"city": "Nice, France",
 				"text": "J'ai appliqué l'apprentissage automatique au prefetching, en utilisant des réseaux de neurones récurrents pour apprendre les modèles d'accès à la mémoire et récupérer les données avant qu'elles soient demandées.",
 				"funding": "Financé par Inria"
 			},
